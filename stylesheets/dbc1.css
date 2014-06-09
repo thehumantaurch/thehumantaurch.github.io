@@ -1,5 +1,5 @@
 body {
-	background-color: silver;
+	background-color: #FFCCFF;
 	color: black;
 	padding 50 px;
 	font-family: Arial, Verdana, sans-serif;
@@ -19,4 +19,11 @@ img.align-right {
 	margin-left: 10px;
 	height: 25%;
 	width: 25%;
+}
+
+.bio {
+	background-color: black;
+	color: #E0CCE0;
+	font-family: Arial, sans-serif;
+	border: 5px solid white;
 }
