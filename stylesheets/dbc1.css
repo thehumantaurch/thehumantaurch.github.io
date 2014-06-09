@@ -11,6 +11,9 @@ body {
 	font-family: Arial, sans-serif;
 	padding: 15px;
 	border: 5px solid silver;
-	width: 500px;
+	width: 450px;
 }
-
+img.align right {
+	float: right;
+	margin-left: 10px;
+}
