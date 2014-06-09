@@ -12,7 +12,8 @@ body {
 	padding: 15px;
 	border: 5px solid white;
 	width: 500px;
-	text-shadow: 2px silver;
+	text-shadow: 2px 2px 2px silver;
+	padding: 15px;
 }
 img.align-right {
 	float: right;
@@ -21,9 +22,27 @@ img.align-right {
 	width: 25%;
 }
 
-.bio {
+.bioone {
 	background-color: black;
-	color: #E0CCE0;
+	color: white;
 	font-family: Arial, sans-serif;
 	border: 5px solid white;
+	height: 200px;
+	width: 200px;
+}
+.biotwo {
+	background-color: black;
+	color: white;
+	font-family: Arial, sans-serif;
+	border: 5px solid white;
+	height: 200px;
+	width: 200px;
+}
+.biothree {
+	background-color: black;
+	color: white;
+	font-family: Arial, sans-serif;
+	border: 5px solid white;
+	height: 200px;
+	width: 200px;
 }
