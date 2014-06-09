@@ -40,10 +40,10 @@ img.align-right {
 	border: 5px solid white;
 	height: 300px;
 	width: 300px;
-	padding: 5 px;
+	padding: 5px;
 	float: left;
 }
-.thirdbio {
+.thirdbio {{
 	background-color: black;
 	color: white;
 	font-family: Arial, sans-serif;
@@ -51,5 +51,4 @@ img.align-right {
 	height: 300px;
 	width: 300px;
 	padding: 5px;
-	float: left;
 }
