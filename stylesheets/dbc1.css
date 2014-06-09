@@ -5,15 +5,11 @@ body {
 	font-family: Arial, Verdana, sans-serif;
 }
 
-h1 {
+.intro {
 	background-color: black;
 	color: white;
 	font-family: Arial, sans-serif;
 	padding 5 px;
-	border 3 px; 
-	border-color: silver;
-	height 60 px;
-	width 250px;
-
+	border: 3 px solid silver;
 }
 
