@@ -18,8 +18,8 @@ body {
 img.align-right {
 	float: right;
 	margin-left: 10px;
-	height: 25%;
-	width: 25%;
+	height: 20%;
+	width: 20%;
 	border: 5px solid white;
 }
 
@@ -28,7 +28,7 @@ img.align-right {
 	color: white;
 	font-family: Arial, sans-serif;
 	border: 5px solid white;
-	height: 300px;
+	height: 250px;
 	width: 300px;
 	padding: 5px;
 	float: left;
@@ -38,17 +38,17 @@ img.align-right {
 	color: white;
 	font-family: Arial, sans-serif;
 	border: 5px solid white;
-	height: 300px;
+	height: 250px;
 	width: 300px;
 	padding: 5px;
 	float: left;
 }
-.thirdbio {{
+.thirdbio {
 	background-color: black;
 	color: white;
 	font-family: Arial, sans-serif;
 	border: 5px solid white;
-	height: 300px;
+	height: 250px;
 	width: 300px;
 	padding: 5px;
 }
