@@ -31,6 +31,7 @@ img.align-right {
 	height: 300px;
 	width: 300px;
 	padding: 5px;
+	float: left;
 }
 .secondbio {
 	background-color: black;
@@ -40,15 +41,15 @@ img.align-right {
 	height: 300px;
 	width: 300px;
 	padding: 5 px;
-	float: right;
+	float: left;
 }
 .thirdbio {
 	background-color: black;
 	color: white;
 	font-family: Arial, sans-serif;
 	border: 5px solid white;
-	height: 200px;
-	width: 200px;
+	height: 300px;
+	width: 300px;
 	padding: 5px;
-	float: right;
+	float: left;
 }
