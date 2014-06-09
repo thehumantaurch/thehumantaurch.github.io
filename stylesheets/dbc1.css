@@ -20,9 +20,10 @@ img.align-right {
 	margin-left: 10px;
 	height: 25%;
 	width: 25%;
+	border: 5px solid white;
 }
 
-.bioone {
+.firstbio {
 	background-color: black;
 	color: white;
 	font-family: Arial, sans-serif;
@@ -30,7 +31,7 @@ img.align-right {
 	height: 200px;
 	width: 200px;
 }
-.biotwo {
+.secondbio {
 	background-color: black;
 	color: white;
 	font-family: Arial, sans-serif;
@@ -38,7 +39,7 @@ img.align-right {
 	height: 200px;
 	width: 200px;
 }
-.biothree {
+.thirdbio {
 	background-color: black;
 	color: white;
 	font-family: Arial, sans-serif;
