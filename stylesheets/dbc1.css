@@ -4,3 +4,12 @@ body {
 	padding 50 px;
 	font-family: Arial, Verdana, sans-serif;
 }
+
+h1 {
+	background-color: black;
+	color: white;
+	font-family: Arial, sans-serif;
+	border: 3 px; 
+	border-color: silver;
+}
+
