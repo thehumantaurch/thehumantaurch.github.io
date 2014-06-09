@@ -28,8 +28,8 @@ img.align-right {
 	color: white;
 	font-family: Arial, sans-serif;
 	border: 5px solid white;
-	height: 200px;
-	width: 200px;
+	height: 300px;
+	width: 300px;
 	padding: 5px;
 }
 .secondbio {
@@ -37,8 +37,8 @@ img.align-right {
 	color: white;
 	font-family: Arial, sans-serif;
 	border: 5px solid white;
-	height: 200px;
-	width: 200px;
+	height: 300px;
+	width: 300px;
 	padding: 5 px;
 	float: right;
 }
@@ -50,4 +50,5 @@ img.align-right {
 	height: 200px;
 	width: 200px;
 	padding: 5px;
+	float: right;
 }
