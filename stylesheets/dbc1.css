@@ -3,6 +3,7 @@ body {
 	color: black;
 	padding 50 px;
 	font-family: Arial, Verdana, sans-serif;
+	text-shadow: silver;
 }
 
 .intro {
@@ -11,9 +12,11 @@ body {
 	font-family: Arial, sans-serif;
 	padding: 15px;
 	border: 5px solid silver;
-	width: 450px;
+	width: 500px;
 }
 img.align-right {
 	float: right;
 	margin-left: 10px;
+	height: 75%;
+	width: 75%;
 }
