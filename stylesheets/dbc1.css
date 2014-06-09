@@ -28,8 +28,8 @@ img.align-right {
 	color: white;
 	font-family: Arial, sans-serif;
 	border: 5px solid white;
-	height: 250px;
-	width: 300px;
+	height: 300px;
+	width: 200px;
 	padding: 5px;
 	float: left;
 }
@@ -38,8 +38,8 @@ img.align-right {
 	color: white;
 	font-family: Arial, sans-serif;
 	border: 5px solid white;
-	height: 250px;
-	width: 300px;
+	height: 300px;
+	width: 200px;
 	padding: 5px;
 	float: left;
 }
@@ -48,7 +48,8 @@ img.align-right {
 	color: white;
 	font-family: Arial, sans-serif;
 	border: 5px solid white;
-	height: 250px;
-	width: 300px;
+	height: 300px;
+	width: 200px;
 	padding: 5px;
+	float: left;
 }
