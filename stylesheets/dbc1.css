@@ -13,7 +13,7 @@ body {
 	border: 5px solid silver;
 	width: 450px;
 }
-img.align right {
+img.align-right {
 	float: right;
 	margin-left: 10px;
 }
