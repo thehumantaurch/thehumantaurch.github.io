@@ -1,5 +1,5 @@
 body {
-	background-image: url ("https://github.com/thehumantaurch/unit1_projects/blob/master/images/HeaderBackground.jpg");
+	background-image: url ("images/HeaderBackground.jpg");
 	background-repeat: no-repeat;
 	background-position: center center;
 	width: 90%;
@@ -20,7 +20,7 @@ body {
 	background-color: #BAA199;
 	border: 3px solid #210800;
 	padding: 0.5em;
-	margin-right: 1em;
+	margin-right: 0.5em;
 	color: white;
 	width: 25%;
 
