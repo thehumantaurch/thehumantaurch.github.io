@@ -5,18 +5,17 @@ body {
 }
 
 .wrapper {
-	width: 900px;
+	width: 1200px;
 	margin: 0px auto;
 }
 
-#header {
+.header {
 	background-color: white;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	border: 3px solid #38302E;
+	margin-top: 10px;
+	margin-bottom: 10px;
 	height: 150px;
-	width: 800px;
-	margin-left: 50px;
-	margin-right:50px;
+	width: 1110px;
 	color: #38302E;
 	text-align: left;
 }
@@ -25,10 +24,8 @@ figure {
 	display: block;
 	width: 100px;
 	height: 100px;
-	background-color: #BAA199;
-	margin: 0px;
-	padding: 5px;
-	text-align: left;
+	text-align: right;
+	margin-right: 300px;
 }
 
 figcaption {
@@ -37,37 +34,33 @@ figcaption {
 	padding-bottom: 5px;
 }
 
-#column1of2 {
+.column1of2 {
 	float: left;
 	background-color: #BAA199;
 	border: 3px solid #38302E;
 	padding: 5px;
-	margin-right: 10px;
 	color: white;
-	width: 350px;
+	width: 250px;
 	height: 600px;
 
 }
 
-#column2of2 {
+.column2of2 {
 	background-color: #BAA199;
-	background-image: url('unit1_projects/images/heart_header.jpg');
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: center center;
 	border: 3px solid #38302E;
-	padding: 5px;
+	padding: 10px;
 	color: white;
-	width: 600px;
+	width: 950px;
 	height: 600px;
+	margin-left: 10px;
 
 }
 
-#footer {
-	background-color: #BAA199;
+.footer {
+	background-color: white;
 	border: 3px solid #38302E;
 	padding-top: 1em;
 	color: white;
-	width: 800px;
+	width: 1100px;
 	height: 100px;
 }
