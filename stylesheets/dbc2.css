@@ -1,5 +1,6 @@
 body {
-	background-image: -webkit-linear-gradient(#521400, #E69980);
+	background-image: -webkit-linear-gradient(#521400, white);
+	font-family: Arial, sans-serif;
 }
 .header {
 	background-image: url("images/HeaderBackground.jpg");
@@ -7,15 +8,25 @@ body {
 	background-position: center top;
 	padding: 20px;
 	border: 3px solid white;
-	font-family: Arial;
+	height: 200px;
+	width: 500px;
 
 }
 
 .column1of2 {
-
+	float: left;
+	background-color: #BAA199;
+	border: 3px solid #210800;
+	padding: 10px;
+	margin-right: 25px;
+	color: white;
 }
 
 .column2of2 {
+	float: left;
+	background-color: #C299C2;
+	border: 3px solid #4E3D4E;
+	color: black;
 
 }
 
