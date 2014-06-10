@@ -44,6 +44,8 @@ body {
 #footer {
 	background-color: #BAA199;
 	border: 3px solid #38302E;
-	padding: 0.5em;
+	padding-top: 1em;
 	color: white;
+	width: 90%;
+	height: 15%;
 }
