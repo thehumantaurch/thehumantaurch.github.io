@@ -6,10 +6,6 @@ body {
 
 #header {
 	background-color: white;
-	background-image: url('images/heart_header.jpg');
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: center center;
 	padding-bottom: 1em;
 	width: 90%;
 	color: #38302E;
@@ -30,6 +26,10 @@ body {
 #column2of2 {
 	float: left;
 	background-color: #BAA199;
+	background-image: url('unit1_projects/images/heart_header.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
 	border: 3px solid #38302E;
 	padding: 0.5em;
 	margin-right: 1em;
