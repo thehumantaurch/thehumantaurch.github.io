@@ -1,5 +1,5 @@
 body {
-	background-color:silver;
+	background-color:#194719;
 	width: 90%;
 	margin: 0 auto;
 	font-family: Arial, sans-serif;
@@ -17,14 +17,14 @@ body {
 	margin-bottom: 10px;
 	height: 200px;
 	width: 1000px;
-	color: black;
+	color: #002900;
 }
 a:link {
 	color: silver ;
 	text-decoration: none;
 }
 a:visited {
-	color: black;
+	color: #002900;
 	text-decoration: none;
 }
 a:hover {
@@ -32,11 +32,11 @@ a:hover {
 }
 .navpanel {
 	float: left;
-	background-color: ;
+	background-color: silver;
 	border: 3px solid ;
 	padding: 10px;
 	margin-right: 10px;
-	color: white;
+	color: #002900;
 	width: 250px;
 	height: 500px;
 
@@ -44,7 +44,7 @@ a:hover {
 
 .contentpanel {
 	float: left;
-	background-color: white; 
+	background-color: silver; 
 	border: 3px solid black;
 	padding: 10px;
 	color: black;
