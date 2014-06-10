@@ -35,6 +35,17 @@ figcaption {
 	padding-bottom: 5px;
 }
 
+a:link {
+	color: 25201F;
+	text-decoration: none;
+}
+a:visited {
+	color:#13100F;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
 .column1of2 {
 	float: left;
 	background-color: #BAA199;
