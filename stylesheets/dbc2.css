@@ -5,7 +5,7 @@ body {
 	font-family: Arial, sans-serif;
 }
 #header {
-	background-image: url (images/HeaderBackground.jpg);
+	background-image: "images/HeaderBackground.jpg";
 	background-repeat: no-repeat;
 	background-position: center center;
 	padding: 0.5em 0;
