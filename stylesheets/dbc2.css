@@ -1,17 +1,18 @@
 body {
 	width: 90%;
 	margin: 0 auto;
-	background-image: -webkit-linear-gradient(#521400, white);
+	background-color: black;
 	font-family: Arial, sans-serif;
 }
 #header {
-	background-image: "images/HeaderBackground.jpg";
+	background-image: url ("https://github.com/thehumantaurch/unit1_projects/blob/master/images/HeaderBackground.jpg");
 	background-repeat: no-repeat;
 	background-position: center center;
 	padding: 0.5em 0;
 	border: 2px solid white;
 	height: 10%;
 	width: 90%;
+	color: white;
 
 }
 
