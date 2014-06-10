@@ -6,8 +6,10 @@ body {
 
 #header {
 	background-color: white;
+	padding-top: 1em;
 	padding-bottom: 1em;
 	width: 90%;
+	height: 15%;
 	color: #38302E;
 
 }
@@ -20,6 +22,7 @@ body {
 	margin-right: 0.5em;
 	color: white;
 	width: 25%;
+	height: 70%;
 
 }
 
@@ -35,9 +38,13 @@ body {
 	margin-right: 1em;
 	color: white;
 	width: 65%;
+	height: 70%;
 
 }
 
 #footer {
-
+	background-color: #BAA199;
+	border: 3px solid #38302E;
+	padding: 0.5em;
+	color: white;
 }
