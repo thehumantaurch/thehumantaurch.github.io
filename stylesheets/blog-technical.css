@@ -18,6 +18,7 @@ body {
 	height: 200px;
 	width: 1000px;
 	color: #001F3D;
+	padding: 10px;
 }
 a:link {
 	color: #335C33 ;
@@ -50,6 +51,7 @@ a:hover {
 	color: #001F3D;
 	width: 680px;
 	height: 500px;
+	overflow: scroll;
 	margin-left: 10px;
 
 }
