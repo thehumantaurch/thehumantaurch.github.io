@@ -13,13 +13,17 @@ body {
 	color: #38302E;
 
 }
+figcaption {
+	position: top-center;
+	text-align: center;
+}
 
 #column1of2 {
 	float: left;
 	background-color: #BAA199;
 	border: 3px solid #38302E;
 	padding: 5px;
-	margin-right: 10px;
+	margin-right: 1em;
 	color: white;
 	width: 200px;
 	height: 800px;
@@ -34,7 +38,6 @@ body {
 	background-position: center center;
 	border: 3px solid #38302E;
 	padding: 5px;
-	margin-right: 10px;
 	color: white;
 	width: 600px;
 	height: 800px;
