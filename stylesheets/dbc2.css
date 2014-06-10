@@ -11,14 +11,16 @@ body {
 
 #header {
 	background-color: white;
-	padding-top: 1em;
-	padding-bottom: 1em;
-	width: 90%;
-	height: 15%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	height: 150px;
+	width: 800px;
+	margin-left: 50px;
+	margin-right:50px;
 	color: #38302E;
 	text-align: left;
-
 }
+
 figure {
 	display: block;
 	width: 100px;
@@ -26,12 +28,13 @@ figure {
 	background-color: #BAA199;
 	margin: 0px;
 	padding: 5px;
-	text-align: center;
+	text-align: left;
 }
 
 figcaption {
-	position: top;
+	position: absolute ;
 	text-align: center;
+	padding-bottom: 5px;
 }
 
 #column1of2 {
@@ -39,10 +42,10 @@ figcaption {
 	background-color: #BAA199;
 	border: 3px solid #38302E;
 	padding: 5px;
-	margin-right: 1em;
+	margin-right: 10px;
 	color: white;
 	width: 350px;
-	height: 800px;
+	height: 600px;
 
 }
 
@@ -56,7 +59,7 @@ figcaption {
 	padding: 5px;
 	color: white;
 	width: 600px;
-	height: 800px;
+	height: 600px;
 
 }
 
@@ -65,6 +68,6 @@ figcaption {
 	border: 3px solid #38302E;
 	padding-top: 1em;
 	color: white;
-	width: 90%;
-	height: 15%;
+	width: 800px;
+	height: 100px;
 }
