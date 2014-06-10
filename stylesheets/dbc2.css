@@ -1,0 +1,21 @@
+.body {
+	background-image: -webkit-linear-gradient(#521400, #E69980);
+}
+.header {
+	background-image: url("images/HeaderBackground.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+
+}
+
+.column1of2 {
+
+}
+
+.column2of2 {
+
+}
+
+.footer {
+
+}
