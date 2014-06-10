@@ -1,35 +1,40 @@
 body {
+	width: 90%;
+	margin: 0 auto;
 	background-image: -webkit-linear-gradient(#521400, white);
 	font-family: Arial, sans-serif;
 }
-.header {
-	background-image: url("images/HeaderBackground.jpg");
+#header {
+	background-image: url ("images/HeaderBackground.jpg");
 	background-repeat: no-repeat;
 	background-position: center top;
-	padding: 20px;
-	border: 3px solid white;
-	height: 200px;
-	width: 500px;
+	padding: 0.5em 0;
+	border: 2px solid white;
+	height: 10%;
+	width: 80%;
 
 }
 
-.column1of2 {
+#column1of2 {
 	float: left;
 	background-color: #BAA199;
 	border: 3px solid #210800;
-	padding: 10px;
-	margin-right: 25px;
+	padding: 0.5em;
+	margin-right: 1em;
 	color: white;
+	width: 20%;
+
 }
 
-.column2of2 {
+#column2of2 {
 	float: left;
 	background-color: #C299C2;
 	border: 3px solid #4E3D4E;
 	color: black;
+	width: 60%;
 
 }
 
-.footer {
+#footer {
 
 }
