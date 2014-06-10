@@ -1,13 +1,13 @@
 body {
+	background-image: url ("https://github.com/thehumantaurch/unit1_projects/blob/master/images/HeaderBackground.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
 	width: 90%;
 	margin: 0 auto;
 	background-color: black;
 	font-family: Arial, sans-serif;
 }
 #header {
-	background-image: url ("https://github.com/thehumantaurch/unit1_projects/blob/master/images/HeaderBackground.jpg");
-	background-repeat: no-repeat;
-	background-position: center center;
 	padding: 0.5em 0;
 	border: 2px solid white;
 	width: 90%;
