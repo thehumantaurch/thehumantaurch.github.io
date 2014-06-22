@@ -54,14 +54,8 @@ li a:hover {
 	background-color: #CFC6E8;
 }
 
-.wrapper a {
-	text-decoration: none;
-	color: #170844;
-}
-
-.wrapper a:hover {
-	text-decoration: underline;
-	color: #170844;
+aside h2 {
+	margin: 0;
 }
 
 aside {
@@ -75,7 +69,15 @@ aside {
 	color: #170844;
 }
 
-aside h2 { margin: 0;}
+aside a {
+	text-decoration: none;
+	color: #170844;
+}
+
+aside a:hover {
+	text-decoration: underline;
+	color: #170844;
+}
 
 section {
 	float: right;
