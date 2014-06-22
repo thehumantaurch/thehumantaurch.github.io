@@ -54,6 +54,16 @@ li a:hover {
 	background-color: #CFC6E8;
 }
 
+.wrapper a {
+	text-decoration: none;
+	color: #170844;
+}
+
+.wrapper a:hover {
+	text-decoration: underline;
+	color: #170844;
+}
+
 aside {
 	clear: left;
 	float: left;
