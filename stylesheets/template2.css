@@ -69,12 +69,12 @@ aside {
 	color: #170844;
 }
 
-aside a {
+aside p a {
 	text-decoration: none;
 	color: #170844;
 }
 
-aside a:hover {
+aside p a:hover {
 	text-decoration: underline;
 	color: #170844;
 }
