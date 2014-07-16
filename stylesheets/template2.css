@@ -99,6 +99,16 @@ footer {
 	color: #071643;
 }
 
+section a:hover {
+	text-decoration: none;
+	color: #170844;
+}
+
+section ul li a {
+	text-decoration: none;
+	color: #170844;
+}
+
 footer a {
 	text-decoration: none;
 	color: #A2B3E8;
