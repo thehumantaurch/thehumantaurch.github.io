@@ -89,6 +89,19 @@ section {
 	background-color: #CFC6E8;
 }
 
+section li {
+	text-decoration: none;
+}
+
+section li:hover {
+	text-decoration: underline;
+}
+
+section ul {
+	background-color: #A2B3E8;
+	color: #170844;
+}
+
 section h2 { margin: 0;} 
 
 footer {
