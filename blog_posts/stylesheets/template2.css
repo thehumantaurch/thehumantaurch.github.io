@@ -89,6 +89,10 @@ section {
 	background-color: #CFC6E8;
 }
 
+img {
+	max-width: 100%;
+}
+
 section h2 { margin: 0;} 
 
 footer {
