@@ -8,13 +8,13 @@
 
 @font-face {
   font-family: Karatula;
-  src: url(assets/Karatula/KARA___.tff);
+  src: url(assets/Karatula/KARAN___.ttf);
 }
 
 html, body { height: 100%; }
 
 body {
-  font-family: , Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
@@ -55,6 +55,11 @@ header {
   height: 20%;
   background-color: white;
   color: #8A0000;
+  display: inline;
+}
+
+h1 {
+  font-family: Karatula;
 }
 
 nav {
@@ -139,7 +144,7 @@ footer a {
 }
 
 
-.site-header {
+/*.site-header {
   min-height: 75px;
   background-color: white;
   display: block;
@@ -152,7 +157,7 @@ footer a {
   float: left;
   position: relative;
   z-index: 1;
-}
+}*/
 
 .site-nav {
   border-bottom: 1px solid #BC1A1A;
