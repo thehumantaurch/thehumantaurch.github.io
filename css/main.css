@@ -274,6 +274,9 @@ footer a {
   letter-spacing: -1.75px;
   line-height: 1;
   font-weight: 300;
+  background-color: white;
+  color: black;
+  font-family: Karatula;
 }
 
 .post-header .meta {
