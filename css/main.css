@@ -78,6 +78,7 @@ header h1 {
 nav {
   background-color: black;
   color: #830000;
+  width: 100%;
 }
 
 nav ul {
