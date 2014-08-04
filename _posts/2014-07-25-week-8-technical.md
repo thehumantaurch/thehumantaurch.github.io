@@ -27,11 +27,11 @@ So, now we start to see how we can get from this:
 
 to this:
 				
-![Punchcard Image 2]({{site.url}}/site/ibm-80-column-punched-card1.jpg)
+![Punchcard Image 2]({{site.url}}/assets/ibm-80-column-punched-card1.jpg)
 
 and then to this: *(though it would take a whole different blog post...)*
 
-![Punchard Image 3]({{site.url}}/site/football5.jpg)
+![Punchard Image 3]({{site.url}}/assets/football5.jpg)
 
 And we know where it goes from there... 
 
