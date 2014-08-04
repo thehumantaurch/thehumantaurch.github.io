@@ -52,8 +52,8 @@ body {
 }
 
 header img {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   border-radius: 150px;
   -webkit-border-radius: 150px;
   -moz-border-radius: 150px;
@@ -75,7 +75,9 @@ header h1 {
 }
 
 nav {
+  float: left;
   background-color: black;
+  color: #830000;
 }
 
 nav ul {
