@@ -59,13 +59,15 @@ header {
 
 header img {
   display: inline;
-  float: left;
+  padding: 2px;
 }
 
 header h1 {
   display: inline;
   float: right;
   font-family: Karatula;
+  font-size: 26px;
+  margin-right: 10px;
 }
 
 nav {
