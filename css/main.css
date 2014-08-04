@@ -168,8 +168,6 @@ footer a {
 
 .site-footer {
   background-color: black;
-  font-family: Karatula;
-
 }
 
 .footer-heading {
@@ -202,6 +200,7 @@ footer a {
   margin-right: 10px
 }
 .footer-col-3 {
+  font-family: Karatula;
   width: 335px; /*fallback*/
   width: -webkit-calc(41.875%);
   width: -moz-calc(41.875%);
@@ -213,6 +212,7 @@ footer a {
 
 .site-footer li,
 .site-footer p {
+  font-family: Karatula;
   font-size: 15px;
   letter-spacing: -.3px;
   color: white;
