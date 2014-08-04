@@ -75,14 +75,12 @@ header h1 {
   font-size: 36px;
   color: #830000;
   background-color: black;
-  z-index: -1;
 }
 
 nav {
   clear: both;
   background-color: black;
   color: #830000;
-  z-index: 0;
 }
 
 nav ul {
@@ -94,13 +92,14 @@ nav ul {
   padding: 0;
   text-align: center;
   text-decoration: none;
+  border-bottom: black solid 2px;
 }
 
 nav li {
   width: 20%;
   padding: .25em;
   display: inline-block;
-  color: #BC1A1A;
+  color: black;
 }
 
 nav li:hover {
