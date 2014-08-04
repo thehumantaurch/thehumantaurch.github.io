@@ -78,7 +78,7 @@ header h1 {
 }
 
 nav {
-  clear: both;
+  clear: left;
   background-color: black;
   color: #830000;
 }
