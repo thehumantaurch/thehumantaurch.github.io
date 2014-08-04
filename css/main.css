@@ -72,10 +72,10 @@ header h1 {
   font-family: Karatula;
   font-size: 36px;
   color: #830000;
+  background-color: black;
 }
 
 nav {
-  float: left;
   background-color: black;
   color: #830000;
 }
