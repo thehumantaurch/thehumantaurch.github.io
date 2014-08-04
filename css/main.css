@@ -120,7 +120,6 @@ nav li a:hover {
 }
 
 footer {
-  font-family: Karatula;
   clear: both;
   width: 100%;
   max-height: 10%;
@@ -149,7 +148,7 @@ footer a {
   z-index: 1;
 }*/
 
-.site-nav {
+/*.site-nav {
   border-bottom: 1px solid #BC1A1A;
   float: right;
   padding-left: 3px;
@@ -164,11 +163,12 @@ footer a {
   color: #BC1A1A;
   letter-spacing: -.5px;
 }*/
-
+*/
 /* Site footer */
 
 .site-footer {
   background-color: black;
+  font-family: Karatula;
 
 }
 
