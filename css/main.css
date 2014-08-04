@@ -51,9 +51,16 @@ body {
   font-family: sans-serif;
 }
 
-header {
-  background-color: white;
-  color: #8A0000;
+.circular {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url(http://link-to-your/image.jpg) no-repeat;
+  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
 
 header img {
@@ -66,8 +73,7 @@ header h1 {
   display: inline-block;
   float: left;
   font-family: Karatula;
-  font-size: 26px;
-  margin-right: 10px;
+  font-size: 36px;
 }
 
 nav {
