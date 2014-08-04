@@ -64,6 +64,7 @@ header img {
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   float: right;
   display: inline-block;
+  z-index: 1;
 }
 
 header h1 {
@@ -81,6 +82,7 @@ nav {
   clear: both;
   background-color: black;
   color: #830000;
+  z-index: 0;
 }
 
 nav ul {
@@ -102,8 +104,9 @@ nav li {
 }
 
 nav li:hover {
-  background-color: #6E6363;
-  color: #BC1A1A;
+  background-color: white;
+  color: black;
+  font-family: Karatula;
 }
 
 nav li a {
