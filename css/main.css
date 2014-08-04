@@ -96,12 +96,12 @@ nav li {
   width: 20%;
   padding: .25em;
   display: inline-block;
-  color: #830000;
+  color: #BC1A1A;
 }
 
 nav li:hover {
   background-color: #6E6363;
-  color: #830000;
+  color: #BC1A1A;
 }
 
 nav li a {
@@ -111,7 +111,7 @@ nav li a {
 
 nav li a:hover {
   text-decoration: none;
-  color: #DBCDCD;
+  color: #BC1A1A;
 }
 
 .wrapper {
