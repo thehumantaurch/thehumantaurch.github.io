@@ -51,7 +51,7 @@ body {
   font-family: sans-serif;
 }
 
-.circular {
+header img {
   width: 300px;
   height: 300px;
   border-radius: 150px;
@@ -61,9 +61,6 @@ body {
   box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-}
-
-header img {
   float: right;
   display: inline-block;
   padding: 2px;
