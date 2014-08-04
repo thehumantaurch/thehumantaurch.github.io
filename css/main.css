@@ -52,6 +52,7 @@ body {
 }
 
 header img {
+  position: relative;
   width: 150px;
   height: 150px;
   border-radius: 150px;
@@ -106,7 +107,7 @@ nav li:hover {
 
 nav li a {
   text-decoration: none;
-  color: #DBCDCD;
+  color: #BC1A1A;
 }
 
 nav li a:hover {
