@@ -92,7 +92,7 @@ nav ul {
   padding: 0;
   text-align: center;
   text-decoration: none;
-  border-bottom: black solid 2px;
+  border-bottom: black solid 3px;
 }
 
 nav li {
@@ -103,19 +103,18 @@ nav li {
 }
 
 nav li:hover {
-  background-color: white;
-  color: black;
   font-family: Karatula;
+  color: #BC1A1A;
 }
 
 nav li a {
   text-decoration: none;
-  color: #BC1A1A;
+  color: #8A0000;
 }
 
 nav li a:hover {
   text-decoration: none;
-  color: #BC1A1A;
+  color: #8A0000;
 }
 
 .wrapper {
