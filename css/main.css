@@ -63,12 +63,12 @@ body {
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
 
-/*header img {
+header img {
   float: right;
   display: inline-block;
   padding: 2px;
 }
-*/
+
 header h1 {
   display: inline-block;
   float: left;
