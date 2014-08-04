@@ -54,10 +54,10 @@ body {
 header {
   background-color: white;
   color: #8A0000;
-  display: inline;
 }
 
 header img {
+  float: right;
   display: inline-block;
   padding: 2px;
 }
