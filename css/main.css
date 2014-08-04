@@ -52,15 +52,16 @@ body {
 }
 
 header {
-  min-height: 20%;
   background-color: white;
   color: #8A0000;
   display: inline;
 }
 
+header img {
+  display: inline;
+}
+
 nav {
-  width: 100%;
-  min-height: 5%;
   background-color: #black;
 }
 
@@ -97,7 +98,7 @@ nav li a:hover {
 .wrapper {
   float: left;
   width: 100%;
-  background: url("images/fresh_snow.png") repeat;
+  background: url("assets/fresh_snow.png") repeat;
   background-color: #CFC6E8;
 }
 
