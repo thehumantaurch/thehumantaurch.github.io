@@ -58,20 +58,20 @@ header {
 }
 
 header img {
-  display: inline;
+  display: inline-block;
   padding: 2px;
 }
 
 header h1 {
-  display: inline;
-  float: right;
+  display: inline-block;
+  float: left;
   font-family: Karatula;
   font-size: 26px;
   margin-right: 10px;
 }
 
 nav {
-  background-color: #black;
+  background-color: black;
 }
 
 nav ul {
