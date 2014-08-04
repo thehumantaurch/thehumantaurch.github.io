@@ -267,7 +267,9 @@ footer a {
 /* Post styles */
 /* ----------------------------------------------------------*/
 
-.post-header { margin: 10px 0 30px; }
+.post-header { 
+  margin: 10px 0 30px;
+  border-bottom: black dashed 3px; }
 
 .post-header h1 {
   font-size: 42px;
