@@ -9,6 +9,9 @@
 @font-face {
   font-family: Karatula;
   src: url(assets/Karatula/KARAI___.ttf);
+  src: url(assets/Karatula/KARAB___.ttf);
+  src: url(assets/Karatula/KARABI___.ttf);
+  src: url(assets/Karatula/KARAN___.ttf);
 }
 
 html, body { height: 100%; }
