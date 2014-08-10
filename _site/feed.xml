@@ -5,9 +5,49 @@
     <description>Chronicling the adventures of our fearless heroine as she embarks on her quest to become a junior developer.</description>
     <link>http://thehumantaurch.github.io//</link>
     <atom:link href="http://thehumantaurch.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 09 Aug 2014 22:31:55 -0400</pubDate>
-    <lastBuildDate>Sat, 09 Aug 2014 22:31:55 -0400</lastBuildDate>
+    <pubDate>Sun, 10 Aug 2014 18:54:11 -0400</pubDate>
+    <lastBuildDate>Sun, 10 Aug 2014 18:54:11 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Week 1 Reflection</title>
+        <description>&lt;h2 id=&quot;week-1-reflection&quot;&gt;Week 1 Reflection&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When have you chosen not to expose your ignorance, and what impact did it have on your effectiveness?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The thing about working in the arts is that there is no such thing as a sure thing. I’ve become more and more comfortable with not knowing everything. I’m used to failure, too. I’ve adapted to the learning lifestyle. There’s a pressure that comes with working people who are “stronger” than you, but it’s a necessary evil. If they’re worth working with, they’ll help you. &lt;/p&gt;
+
+&lt;p&gt;I find my biggest problem when I pretend I don’t know something is the fear that comes along with it. When will it come out that I don’t know? And most often there’s also the fear of what the worst possible answer could be. Why I ever willingly put myself through that is a mystery because it feels awful. &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What are the 5 things you feel like you understand the least about computer programming? Try to keep it to stuff that you’ve tried to understand in the past.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Recursion(algorithms)&lt;/li&gt;
+  &lt;li&gt;JavaScript&lt;/li&gt;
+  &lt;li&gt;Attr_reader/writer/etc&lt;/li&gt;
+  &lt;li&gt;Private vs. Public&lt;/li&gt;
+  &lt;li&gt;Seeing things in an object oriented way as opposed to a functional way&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What is the way you feel most comfortable exposing your ignorance?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I prefer to do it in the moment in person when it comes to material (if I think of the question), but it usually takes me some time to process something enough to form the question I need to ask. In those (more frequent) cases, the problem is whether or not I remember the question once I figure it out. &lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 Aug 2014 00:00:00 -0400</pubDate>
+        <link>http://thehumantaurch.github.io//culture/2014/08/10/week1-reflection/</link>
+        <guid isPermaLink="true">http://thehumantaurch.github.io//culture/2014/08/10/week1-reflection/</guid>
+        
+        
+        <category>culture</category>
+        
+      </item>
     
       <item>
         <title>The Post Week 1 Recap</title>
@@ -416,33 +456,6 @@ Sentence.new(dog, nap)
         
         
         <category>technical</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 5 Cultural Blog</title>
-        <description>&lt;h1 id=&quot;week-5&quot;&gt;Week 5&lt;/h1&gt;
-
-&lt;h2 id=&quot;the-perils-and-positives-of-pairing&quot;&gt;The Perils and Positives of Pairing&lt;/h2&gt;
-
-&lt;p&gt;Ah, pairing… we love it and we hate it. Or maybe I’m using the royal “we”. Pairing often can feel like a first date. You’re nervous. You don’t know if the person will like you. You don’t know if you’ll click. And sometimes you do. Sometimes you don’t, and that hour seems to drag on interminably.&lt;/p&gt;
-
-&lt;p&gt;Pairing is sort of a double-edged sword. I enjoy it because I always solve problems faster when in a pair, and usually learn a great deal from my partner. However, it puts me in a position of vulnerability nine times out of ten as I’m rarely confident with the material. It’s frustrating to feel like I’m not contributing an equal amount, and I often beat myself up about that. Then again, if I learn the most from pairing, the more I pair, the more I will learn. Thus: double-edged sword.&lt;/p&gt;
-
-&lt;p&gt;It’s incredibly rewarding to work with someone who’s sort of on the same level as me. Problem solving together with someone who communicates well with you is a joy. You learn and contribute! It gives me confidence when I know I’m contributing. However, I have to put myself in a position where I’m not confident, and potentially will only end up frustrated in my lack of knowledge and skills.&lt;/p&gt;
-
-&lt;p&gt;I’m my own worst enemy, or rather my own worst critic. I know what I don’t know, and just because I do my best to learn doesn’t mean I know everything I should/want to know at this point. The feedback I receive from others is usually something I already know and have thought. The hardest thing for me to read is when a piece of feedback says I wasn’t always motivating or inspiring. I know I’m not going to necessarily benefit someone technically, so I want that to be my contribution.&lt;/p&gt;
-
-&lt;p&gt;I know I need to also work a little bit on my communication. My mind works faster than my mouth can, but my brain doesn’t necessarily solidify thoughts unless I manifest them in words or code or writing, etc. I know this can be frustrating for people I work with sometimes– it’s frustrating for me, too! I don’t want to monopolize a session by talking just so I can solidify my understanding either. &lt;/p&gt;
-
-&lt;p&gt;I know we haven’t gotten to anything to frustrating for everyone yet, but it’s very hard to be constructive with feedback sometimes– especially as I’m usually the one with the smaller knowledge base on the concept we’re working on. I also feel like our cohort is reluctant to give constructive feedback. The one time I really thought I had written a piece of constructive feedback, I don’t think my pair ever saw it because it wasn’t considered kind, though I struggled to make it constructive AND kind a great deal while writing it. We can’t improve without constructive feedback! It’s not mean, we’re just trying to be helpful. I have to take constructive criticism on a daily basis, so I’m used to it. I even enjoy it. And, despite the first date-esque nature of some pairing, it’s really the only way I’m going to learn.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 06 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://thehumantaurch.github.io//culture/2014/07/06/week-5-cultural/</link>
-        <guid isPermaLink="true">http://thehumantaurch.github.io//culture/2014/07/06/week-5-cultural/</guid>
-        
-        
-        <category>culture</category>
         
       </item>
     
