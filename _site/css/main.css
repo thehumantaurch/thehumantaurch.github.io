@@ -284,6 +284,7 @@ footer a {
   background-color: white;
   color: black;
   font-family: Karatula;
+  font-style: normal;
   padding: 10px;
 }
 
@@ -311,12 +312,14 @@ footer a {
   font-weight: 300;
   margin: 40px 0 20px;
   font-family: Karatula;
-  font-style: italic;
+
 }
 
 .post-content h2 {
   font-size: 32px;
   letter-spacing: -1.25px;
+  font-weight: bold;
+  font-style: italic;
 }
 
 .post-content h3 {
