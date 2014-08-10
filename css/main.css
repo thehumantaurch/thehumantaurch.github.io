@@ -72,6 +72,7 @@ header h1 {
   display: inline-block;
   float: left;
   font-family: Karatula;
+  font-style: italic;
   font-size: 36px;
   color: #830000;
   background-color: black;
@@ -206,6 +207,7 @@ footer a {
 }
 .footer-col-3 {
   font-family: Karatula;
+  font-style: italic;
   width: 335px; /*fallback*/
   width: -webkit-calc(41.875%);
   width: -moz-calc(41.875%);
@@ -305,6 +307,8 @@ footer a {
   line-height: 1;
   font-weight: 300;
   margin: 40px 0 20px;
+  font-family: Karatula;
+  font-style: italic;
 }
 
 .post-content h2 {
