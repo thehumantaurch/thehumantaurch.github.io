@@ -5,9 +5,51 @@
     <description>Chronicling the adventures of our fearless heroine as she embarks on her quest to become a junior developer.</description>
     <link>http://thehumantaurch.github.io//</link>
     <atom:link href="http://thehumantaurch.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 10 Aug 2014 18:54:11 -0400</pubDate>
-    <lastBuildDate>Sun, 10 Aug 2014 18:54:11 -0400</lastBuildDate>
+    <pubDate>Sun, 31 Aug 2014 10:27:14 -0400</pubDate>
+    <lastBuildDate>Sun, 31 Aug 2014 10:27:14 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>The Post Month 1 Recap</title>
+        <description>&lt;h2 id=&quot;when-last-we-met-our-hero&quot;&gt;When Last We Met Our Hero…&lt;/h2&gt;
+
+&lt;p&gt;It was week 1 of phase 1 of Dev Bootcamp! After 9 weeks of grueling self-study she was finally in New York City studying in person. Spirits were high!&lt;/p&gt;
+
+&lt;h1 id=&quot;the-pledge&quot;&gt;The Pledge&lt;/h1&gt;
+
+&lt;p&gt;Things were cool back in week 1, before we got into object-oriented design, before databases and Active Record. Things were hard, and they got harder, but at some point (maybe on Sudoku day, maybe on Active Record Jr. day), I started to withdraw. For whatever reason (and I have a few theories) my confidence plummeted, and I started acting as if everything was okay when it really wasn’t. This, of course, turned into a vicious cycle of lower confidence, more withdrawal, and less learning. DBC makes a point of wanting you to constantly be uncomfortable, but also acknowledge if that discomfort turns to drowning. I was drowning, but I didn’t ask for help.&lt;/p&gt;
+
+&lt;p&gt;You can probably see where this is going. A week ago today I sat down after yoga to take my final assessment for phase 1, and it did not go well. It could partially have been a self-fulfilling prophecy, my own gender discrimination (yes, I’m sexist, too), that I really wasn’t feeling well, that I panicked, or maybe a combination of all of the above, but whatever it was: I choked. And while I knew the material, I didn’t really KNOW the material. I hadn’t owned it, yet. &lt;/p&gt;
+
+&lt;h1 id=&quot;the-turn&quot;&gt;The Turn&lt;/h1&gt;
+
+&lt;p&gt;The Bad News: I failed. &lt;/p&gt;
+
+&lt;p&gt;DBC doesn’t call it that, of course, but it still felt like it. I was asked to repeat phase 1. Friday was terrible, and Monday might have been worse (seeing your friends go on to new material and you’re with brand new people who all know each other starting back at “GO” and not having collected $200). I said I’d be okay with it, and when it came down to it, I realized there was no way I could have really prepared myself to be okay with it. &lt;/p&gt;
+
+&lt;h1 id=&quot;the-prestige&quot;&gt;The Prestige&lt;/h1&gt;
+
+&lt;p&gt;I learned more about myself in the weekend between Phase 1, Take 1 and Phase 1, Take 2 and the past few days than I have in awhile. I learned how hard it is for me to advocate for myself. I learned that there were some people in my cohort(class) that were really intimidating me, and that was hard to admit. I learned that I had started doubting myself even before things got rough, and I hadn’t even noticed. &lt;/p&gt;
+
+&lt;p&gt;I also learned how to ask for and accept help. I also learned that I knew the material better than I thought, but I wasn’t breaking problems down enough. I also learned what I didn’t learn in the first three weeks, and I’m working on remedying that now. &lt;/p&gt;
+
+&lt;p&gt;My new cohort is a much better environment for me, and my teachers are answering my questions (mostly because I’m actually asking them). The feedback I gave to the school has really been implemented. This is all the Good News. &lt;/p&gt;
+
+&lt;h1 id=&quot;the-other-bad-news&quot;&gt;The Other Bad News&lt;/h1&gt;
+
+&lt;p&gt;Yeah, you guessed it– I won’t be back on October 4 anymore :( . Not only that, I won’t be back in time to do the dance workshop I signed up for with Sonya Tayeh. And also… there was a haircut… that went about 2 inches shorter than expected… it’s shoulder length. It was(still is) traumatic. &lt;/p&gt;
+
+&lt;p&gt;BUT things are way better this time around. I’m learning a lot more, and getting a lot more help, and working with people who are as a group more awesome than the group I was in last time. I’ve realized that more than anything I get intimidated even when I know the material, and that intimidation is paralyzing. It’s hard to overcome, but I’m working on it. Also, I get to see more friends in NYC now :) &lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 28 Aug 2014 00:00:00 -0400</pubDate>
+        <link>http://thehumantaurch.github.io//culture/2014/08/28/phase-1-take-1/</link>
+        <guid isPermaLink="true">http://thehumantaurch.github.io//culture/2014/08/28/phase-1-take-1/</guid>
+        
+        
+        <category>culture</category>
+        
+      </item>
     
       <item>
         <title>Week 1 Reflection</title>
@@ -360,102 +402,6 @@ Sentence.new(dog, nap)
         
         
         <category>culture</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 5 Technical Blog</title>
-        <description>&lt;h1 id=&quot;week-5&quot;&gt;Week 5&lt;/h1&gt;
-
-&lt;h2 id=&quot;about-classes&quot;&gt;About Classes&lt;/h2&gt;
-
-&lt;p&gt;Let’s start simple: &lt;b&gt;classes&lt;/b&gt; are merely a &lt;b&gt;means of organization&lt;/b&gt;. We’re still dealing with objects, variables, and methods, but we’re just grouping them as convenient. Within a class, you can define &lt;b&gt;methods&lt;/b&gt; and &lt;b&gt;variables&lt;/b&gt; that are &lt;b&gt;instances of the class&lt;/b&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;Don’t worry too much about the syntax in the following. I’m going for the concepts here.&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;To create an example: let’s say we want to organize our library. If we create a class about books, there’s a lot of information we will want to be able to easily access about books.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;class Book
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;We would create a new book (or a book object) by calling Book.new.&lt;/p&gt;
-
-&lt;p&gt;We would then set up the different kinds of information we want to be able to access about each new book we create. We might want to store information about title, author, number of pages, and genre. To do that we use instance variables. In this new book we’ve called, this is the information we may want to use. All books we create will have the same four types of information, but for each new Book, each separate Book, the information will be different.&lt;/p&gt;
-
-&lt;p&gt;We would then use instance variables to organize that information. Instance variables (with the little @ in front) define the same type of information for &lt;b&gt;this particular instance&lt;/b&gt; of a Book. In other words, all Books have @titles, @authors, @pages, and @genre, but they won’t be the same things.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;@title = title
-@author = author
-@pages = num_of_pages
-@genre = genre
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;In other words:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Book.new(&quot;American Gods&quot;) // &amp;lt;= instance of Book
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;would have an author of Neil Gaiman:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;@author = Neil Gaiman // &amp;lt;= variable in this instance of Book
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;but&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Book.new(&quot;The Golden Compass&quot;) // &amp;lt;= instance of Book
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;would have an author of Philip Pullman:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;@author = Philip Pullman // &amp;lt;= variable in this instance of Book
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;You could also have:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Book.new(&quot;Neverwhere&quot;)
-@author = Neil Gaiman
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;It doesn’t matter. Both objects are books, but separate books, even if information pertaining to the books is the same. For the instance of the class Book that is “American Gods”, it will have a title and author set to American Gods and Neil Gaiman. For the instance of the class Book that is “The Golden Compass”, it will have a title and author set to The Golden Compass and Philip Pullman.&lt;/p&gt;
-
-&lt;p&gt;Now in a class we can also manipulate the data we’ve organized. We can define a method that will return a book’s name and author. For any instance of the Book class that we’ve defined with the appropriate instance variables, if we define a method &lt;b&gt;info&lt;/b&gt; that:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;puts @title + &quot; is by &quot; + @author
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;we can retrieve the title and author of any Book we create. In other words, for the Neverwhere instance of Book:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Book.new(&quot;Neverwhere&quot;) =  book1
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;if we provided the appropriate information that all Books have:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;@author = &quot;Neil Gaiman&quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;and we called&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;book1.info
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;as we can on all Books, we would get&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Neverwhere is by Neil Gaiman
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;But for American Gods instance of Book, we’d see&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;American Gods is by Neil Gaiman.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now, if we wanted to have a class Play, we would want to store some different information. We might want act number and scene numbers and line numbers. We might stil want to have the title, author, and number of pages, but we’d probably be storing and manipulating the data in a different way. Thus, we would use a new class.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 06 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://thehumantaurch.github.io//technical/2014/07/06/week-5-technical/</link>
-        <guid isPermaLink="true">http://thehumantaurch.github.io//technical/2014/07/06/week-5-technical/</guid>
-        
-        
-        <category>technical</category>
         
       </item>
     
