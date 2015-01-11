@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <title>
+         Week 6 Technical Blog
+        
+    </title>
+
+    <meta name="robots" content="index,follow">
+    <meta name="revisit-after" content="1 days">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="cleartype" content="on">
+
+     <link rel="stylesheet" href="/css/syntax.css" type='text/css'> 
+    <link rel="stylesheet" href="/css/main.css" type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
+    <link rel="alternate" type="application/rss+xml" title="The Human Taurch" href="http://thehumantaurch.github.io//feed.xml">
+
+</head>
+
+<body>
+    <header id="top" class="main-header">
+
+        <div class="module title color-1">
+            <h1><a href="/">The Human Taurch</a></h1>
+        </div>
+
+        <div class="module description color-2">
+            Making things
+        </div>
+
+        <nav class="module main-menu color-4">
+            <a href="/">Home</a>
+            <a href="/about/">About</a>
+            <a href="/contact/">Contact</a>
+        </nav>
+
+        <div class="module links color-3">
+            <a href="https://github.com/thehumantaurch" title="Profile in Github" target="_blank">github</a>
+            <a href="https://twitter.com/the_humantaurch" title="Profile in Twitter" target="_blank">twitter</a>
+            <a href="https://plus.google.com/" title="Profile in Google+" target="_blank">Google+</a>
+            <a href="http://thehumantaurch.github.io//feed.xml" title="Suscribe to RSS" target="_blank">rss</a>
+        </div>
+
+    </header>
+
+    <div class="main-content">
+
+    <article class="module color-3">
+        <h1>Week 6 Technical Blog</h1>
+        <h2></h2>
+        <hr>
+
+        <h1>Week 6</h1>
+
+<h2>The difference between OO and non-OO programming</h2>
+
+<p>I&#39;m going to try to keep this very simple (and from an English major&#39;s perspective). </p>
+
+<p>In programming, you have variables and methods. They&#39;re the nouns and verbs of your code. They&#39;re the building blocks, just like the building blocks of a sentence.</p>
+
+<p>You can have any number of nouns: a cat, a dog, a monkey, etc...</p>
+
+<p>That do any number of verbs: nap, eat, chase, etc...</p>
+
+<p>If we define a cat variable, a dog variable, and a monkey variable, we can call methods (napping, eating, and chasing) on all those different variables. We can have a cat napping or a dog napping. We can have a monkey eating and a dog eating. We can go through all the permutations we want! However, in this story we&#39;re trying to tell with our code, it gets more complicated to say that the dog ate (past tense). </p>
+
+<p>Object-oriented programming helps us group these nouns and verbs together into objects. In our parts of speech analogy, it&#39;d be like defining simple sentences. Instead of the nouns as variables and verbs as methods, we can simply ensure that we don&#39;t have a verb without a subject or a noun without an action-- in other words, a complete sentence (which would be the object). </p>
+
+<p>Procedural programming would make us call the methods on the variables. With object oriented programming we can create a class Sentence that requires both a noun and verb.:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">class Sentence
+def initialize(noun,verb)
+@noun = noun
+@verb = verb
+end
+</code></pre></div>
+<p>You don&#39;t have to worry about calling: cat.chase or dog.nap. All you have to do is:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">Sentence.new(cat, chase)
+Sentence.new(dog, nap)
+</code></pre></div>
+<p>Whereas cat.chase is running a method (chase) on a variable (cat), which is two different things, we can use object-oriented programming to just create a sentence in which the cat chases. The first is procedural. It&#39;s telling the computer to call chase (step 1) on cat (step 2). The second, object-oriented, is creating an instance where the cat chases (only one step).</p>
+
+<p>This inherent connection between the nouns and verbs of your program can make your life much easier (especially as things get more complicated)! You can group things by connection instead of simply by individual nouns and verbs. When things get more complicated, you can have classes for tenses that would still both take a noun and verb as their inputs, but the verb would have different methods(tenses) applied to it.</p>
+
+
+        <p class="top"><small><a href="#top">[top]</a></small></p>
+    </article>
+
+
+    <div class="social module">
+        <ul>
+
+            
+            
+            
+
+            <li class="fb"><a target="_blank" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?t=Week 6 Technical Blog&u=http://thehumantaurch.github.io//week-6-technical">Facebook</a></li>
+            <li class="tw"><a target="_blank" title="Share on Twitter" href="https://twitter.com/intent/tweet?text=Week 6 Technical Blog&url=http://thehumantaurch.github.io//week-6-technical&via=the_humantaurch&hashtags=">Twitter</a></li>
+            <li class="gp"><a target="_blank" title="Share on Google+" href="https://plus.google.com/share?url=http://thehumantaurch.github.io//week-6-technical">Google+</a></li>
+        </ul>
+    </div>
+
+
+
+</div>
+
+
+
+
+
+    <div class="footer module">
+    <span class="licence">Copyright 2015 (C) Bla Bla.</span>
+    <p>
+        Powered by Jekyll and GitHub.
+        <a href="https://github.com/drvy/minimal-block" target="_blank">minimal-block theme.</a>
+    </p>
+</div>
+
+</body>
+</html>

@@ -1,409 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>TheHumanTaurch @ DBC</title>
-    <description>Chronicling the adventures of our fearless heroine as she embarks on her quest to become a junior developer.</description>
-    <link>http://thehumantaurch.github.io//</link>
-    <atom:link href="http://thehumantaurch.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 31 Aug 2014 10:27:14 -0400</pubDate>
-    <lastBuildDate>Sun, 31 Aug 2014 10:27:14 -0400</lastBuildDate>
-    <generator>Jekyll v2.2.0</generator>
-    
-      <item>
-        <title>The Post Month 1 Recap</title>
-        <description>&lt;h2 id=&quot;when-last-we-met-our-hero&quot;&gt;When Last We Met Our Hero…&lt;/h2&gt;
-
-&lt;p&gt;It was week 1 of phase 1 of Dev Bootcamp! After 9 weeks of grueling self-study she was finally in New York City studying in person. Spirits were high!&lt;/p&gt;
-
-&lt;h1 id=&quot;the-pledge&quot;&gt;The Pledge&lt;/h1&gt;
-
-&lt;p&gt;Things were cool back in week 1, before we got into object-oriented design, before databases and Active Record. Things were hard, and they got harder, but at some point (maybe on Sudoku day, maybe on Active Record Jr. day), I started to withdraw. For whatever reason (and I have a few theories) my confidence plummeted, and I started acting as if everything was okay when it really wasn’t. This, of course, turned into a vicious cycle of lower confidence, more withdrawal, and less learning. DBC makes a point of wanting you to constantly be uncomfortable, but also acknowledge if that discomfort turns to drowning. I was drowning, but I didn’t ask for help.&lt;/p&gt;
-
-&lt;p&gt;You can probably see where this is going. A week ago today I sat down after yoga to take my final assessment for phase 1, and it did not go well. It could partially have been a self-fulfilling prophecy, my own gender discrimination (yes, I’m sexist, too), that I really wasn’t feeling well, that I panicked, or maybe a combination of all of the above, but whatever it was: I choked. And while I knew the material, I didn’t really KNOW the material. I hadn’t owned it, yet. &lt;/p&gt;
-
-&lt;h1 id=&quot;the-turn&quot;&gt;The Turn&lt;/h1&gt;
-
-&lt;p&gt;The Bad News: I failed. &lt;/p&gt;
-
-&lt;p&gt;DBC doesn’t call it that, of course, but it still felt like it. I was asked to repeat phase 1. Friday was terrible, and Monday might have been worse (seeing your friends go on to new material and you’re with brand new people who all know each other starting back at “GO” and not having collected $200). I said I’d be okay with it, and when it came down to it, I realized there was no way I could have really prepared myself to be okay with it. &lt;/p&gt;
-
-&lt;h1 id=&quot;the-prestige&quot;&gt;The Prestige&lt;/h1&gt;
-
-&lt;p&gt;I learned more about myself in the weekend between Phase 1, Take 1 and Phase 1, Take 2 and the past few days than I have in awhile. I learned how hard it is for me to advocate for myself. I learned that there were some people in my cohort(class) that were really intimidating me, and that was hard to admit. I learned that I had started doubting myself even before things got rough, and I hadn’t even noticed. &lt;/p&gt;
-
-&lt;p&gt;I also learned how to ask for and accept help. I also learned that I knew the material better than I thought, but I wasn’t breaking problems down enough. I also learned what I didn’t learn in the first three weeks, and I’m working on remedying that now. &lt;/p&gt;
-
-&lt;p&gt;My new cohort is a much better environment for me, and my teachers are answering my questions (mostly because I’m actually asking them). The feedback I gave to the school has really been implemented. This is all the Good News. &lt;/p&gt;
-
-&lt;h1 id=&quot;the-other-bad-news&quot;&gt;The Other Bad News&lt;/h1&gt;
-
-&lt;p&gt;Yeah, you guessed it– I won’t be back on October 4 anymore :( . Not only that, I won’t be back in time to do the dance workshop I signed up for with Sonya Tayeh. And also… there was a haircut… that went about 2 inches shorter than expected… it’s shoulder length. It was(still is) traumatic. &lt;/p&gt;
-
-&lt;p&gt;BUT things are way better this time around. I’m learning a lot more, and getting a lot more help, and working with people who are as a group more awesome than the group I was in last time. I’ve realized that more than anything I get intimidated even when I know the material, and that intimidation is paralyzing. It’s hard to overcome, but I’m working on it. Also, I get to see more friends in NYC now :) &lt;/p&gt;
-
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>The Human Taurch</title>
+        <description>Making things</description>
+        <link>http://thehumantaurch.github.io/</link>
+        <atom:link href="http://thehumantaurch.github.io//feed.xml" rel="self" type="application/rss+xml" />
+        
+            <item>
+                <title>And now for phase 2!</title>
+                <dc:creator></dc:creator>
+                
+                    <description>&lt;h2&gt;When Last We Met Our Hero...&lt;/h2&gt;
 </description>
-        <pubDate>Thu, 28 Aug 2014 00:00:00 -0400</pubDate>
-        <link>http://thehumantaurch.github.io//culture/2014/08/28/phase-1-take-1/</link>
-        <guid isPermaLink="true">http://thehumantaurch.github.io//culture/2014/08/28/phase-1-take-1/</guid>
+                
+                            <pubDate>Wed, 17 Sep 2014 00:00:00 -0400</pubDate>
+                <link>http://thehumantaurch.github.io//phase-2</link>
+                <guid isPermaLink="true">http://thehumantaurch.github.io//phase-2</guid>
+            </item>
         
-        
-        <category>culture</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 1 Reflection</title>
-        <description>&lt;h2 id=&quot;week-1-reflection&quot;&gt;Week 1 Reflection&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;When have you chosen not to expose your ignorance, and what impact did it have on your effectiveness?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The thing about working in the arts is that there is no such thing as a sure thing. I’ve become more and more comfortable with not knowing everything. I’m used to failure, too. I’ve adapted to the learning lifestyle. There’s a pressure that comes with working people who are “stronger” than you, but it’s a necessary evil. If they’re worth working with, they’ll help you. &lt;/p&gt;
-
-&lt;p&gt;I find my biggest problem when I pretend I don’t know something is the fear that comes along with it. When will it come out that I don’t know? And most often there’s also the fear of what the worst possible answer could be. Why I ever willingly put myself through that is a mystery because it feels awful. &lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What are the 5 things you feel like you understand the least about computer programming? Try to keep it to stuff that you’ve tried to understand in the past.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Recursion(algorithms)&lt;/li&gt;
-  &lt;li&gt;JavaScript&lt;/li&gt;
-  &lt;li&gt;Attr_reader/writer/etc&lt;/li&gt;
-  &lt;li&gt;Private vs. Public&lt;/li&gt;
-  &lt;li&gt;Seeing things in an object oriented way as opposed to a functional way&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What is the way you feel most comfortable exposing your ignorance?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I prefer to do it in the moment in person when it comes to material (if I think of the question), but it usually takes me some time to process something enough to form the question I need to ask. In those (more frequent) cases, the problem is whether or not I remember the question once I figure it out. &lt;/p&gt;
-
+            <item>
+                <title>The Post Month 1 Recap</title>
+                <dc:creator></dc:creator>
+                
+                    <description>&lt;h2&gt;When Last We Met Our Hero...&lt;/h2&gt;
 </description>
-        <pubDate>Sun, 10 Aug 2014 00:00:00 -0400</pubDate>
-        <link>http://thehumantaurch.github.io//culture/2014/08/10/week1-reflection/</link>
-        <guid isPermaLink="true">http://thehumantaurch.github.io//culture/2014/08/10/week1-reflection/</guid>
+                
+                            <pubDate>Thu, 28 Aug 2014 00:00:00 -0400</pubDate>
+                <link>http://thehumantaurch.github.io//phase-1-take-1</link>
+                <guid isPermaLink="true">http://thehumantaurch.github.io//phase-1-take-1</guid>
+            </item>
         
-        
-        <category>culture</category>
-        
-      </item>
-    
-      <item>
-        <title>The Post Week 1 Recap</title>
-        <description>&lt;h2 id=&quot;phase-1-week-1&quot;&gt;Phase 1: Week 1&lt;/h2&gt;
-
-&lt;p&gt;Since a bunch of my friends are awesome and want to know how it’s going, I thought I’d send this to all of you instead of replying. Efficiency is the name of the game right now. &lt;/p&gt;
-
-&lt;h1 id=&quot;the-morning&quot;&gt;The Morning&lt;/h1&gt;
-
-&lt;p&gt;My day starts at 5:30-5:45 AM (depending on whether I hit snooze… which I usually do). I take about half an hour to get ready and am out the door by 6:15 (eating breakfast in the car) to get on the 6:32 express train from New Haven to Grand Central. I usually manage to get about a half hour of sleep on the train around reviewing stuff for the day. I get to NYC around 8:15 and hop on the 4/5/6 down to Wall Street. My school is two blocks from the Stock Exchange. I usually stop for coffee at the Dunkin’ Donuts in our building before going up to class. We’re supposed to be there at 8:45 but my usual arrival time is 8:50 because of the train schedule stuff. &lt;/p&gt;
-
-&lt;h1 id=&quot;the-school-dayweek&quot;&gt;The School Day/Week&lt;/h1&gt;
-
-&lt;p&gt;The day starts with a lecture or yoga, depending on the day of the week, about an hour long. Then it’s coding for two and a half hours in assigned pairs until lunch at 12:30. Lunch goes until 2– 1.5 hours sounds good, but you’re usually scarfing in order to A) finish your work from the morning, or B) catching a few Zzs in the nap room (just a room with the lights off that you grab a corner in to curl up and pass out on the hard floor). After lunch there’s a school-wide meeting. There are announcements and stuff, and usually a terrible joke that gets a slow clap. We then go right back into coding, or maybe another brief lecture and then coding straight until 6. The gong rings (tolls?), except nobody leaves at 6. If anything, you reevaluate with your partner and see how long you think you both need to stay (but the building closes at 2 AM). There are special things scattered throughout the week– we have an Engineering Empathy lecture once a week, and Wednesdays are days you can chose your own partner or work by yourself. Fridays we have check-ins as small groups and the whole school. There’s meditation at 12 on 3 days a week, too, and psychologist counselor to talk to, and two career counselors you can see at any time. &lt;/p&gt;
-
-&lt;p&gt;There is no email. There is no Facebook. There are no phones. Sometimes people check them at lunch, but for the most part, we forget such things exist. I’m a hard person to get ahold of, and I’m sorry. &lt;/p&gt;
-
-&lt;h1 id=&quot;the-nights&quot;&gt;The Nights&lt;/h1&gt;
-
-&lt;p&gt;So far, I’m the slacker in the group (my cohort already has a bad reputation for working too hard in week 1 and being too competitive though, so hopefully that will change) that only stays until 8 at the latest so I can get the 8:30 train home (during which I read, watch lectures, or code), get home by 10:45 and be in bed by 11:30. Wash, rinse, repeat. On Thursday evenings there are talks, and they get us pizza and beer (we have a tap in the common room) if we stay for it. On Friday there’s karaoke, but it started at 9 and I was too tired to go last night.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-people&quot;&gt;The People&lt;/h1&gt;
-
-&lt;p&gt;Everyone here (with a very few exceptions) is totally awesome. You’re expected to struggle, but everyone is always available to ask questions and very friendly. There’s a guy in my cohort with the same birthday as me… which was awesome until I asked him if he was born in 1989, figuring he was a bit younger than me. HE WAS BORN IN 1991. It’s okay. There’a also a guy who’s five years older than me. I’m the median age. There are 3 girls in my cohort (including me), nine guys. &lt;/p&gt;
-
-&lt;h1 id=&quot;and-as-for-me&quot;&gt;And as for me?&lt;/h1&gt;
-
-&lt;p&gt;I’m already behind on work– the good news is there’s no shame in repeating a phase (it’s a 3-week section of the 9-week course, and I’d say about a third of students repeat either phases 1 or 2), but obviously I want to get back to DC ASAP, so I’m working as hard as I can. It’s definitely as intense as advertised in most ways. We have our first mock assessments on Monday/Tuesday so I’ll have a better idea then on where I stand. I’m thinking commuting from New Haven will be okay for phases 1 and 2 and then for phase 3 I’ll have to stay in NYC. Now that I’ve adjusted to life here (sort of… kind of… well, not really, but it’s something), I’m hoping to FINALLY see friends. Maybe after I pass phase 1 I’ll be able to come to DC for a weekend, but it’s a long trip and weekends require A LOT of work. &lt;/p&gt;
-
-&lt;p&gt;My Mom is saving my butt big time by driving me to and from the train station and helping me with grocery shopping and packing lunches– I’m not lazy, I’m just working THAT much. In fact, I’d write more details, but I have to get back to work! Hope all is well where you’re at, folks. Talk soon :)&lt;/p&gt;
-
+            <item>
+                <title>Week 1 Reflection</title>
+                <dc:creator></dc:creator>
+                
+                    <description>&lt;h2&gt;Week 1 Reflection&lt;/h2&gt;
 </description>
-        <pubDate>Sat, 09 Aug 2014 00:00:00 -0400</pubDate>
-        <link>http://thehumantaurch.github.io//culture/2014/08/09/phase1-week1/</link>
-        <guid isPermaLink="true">http://thehumantaurch.github.io//culture/2014/08/09/phase1-week1/</guid>
+                
+                            <pubDate>Sun, 10 Aug 2014 00:00:00 -0400</pubDate>
+                <link>http://thehumantaurch.github.io//week1-reflection</link>
+                <guid isPermaLink="true">http://thehumantaurch.github.io//week1-reflection</guid>
+            </item>
         
-        
-        <category>culture</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 9 Cultural Blog</title>
-        <description>&lt;h1 id=&quot;week-9&quot;&gt;Week 9&lt;/h1&gt;
-
-&lt;h2 id=&quot;to-ask-or-not-to-ask&quot;&gt;To Ask, or Not To Ask&lt;/h2&gt;
-
-&lt;p&gt;You know who knew how to ask the big, tough questions? The ones that get right to the heart of the matter and don’t mess around? Well, if the header was any indication, you know where I’m going with this: Hamlet, or rather, Master William Shakespeare. Okay, so maybe he wasn’t exactly economical with his words (he WAS a poet after all), but “To be or not to be? That is the question.” really cuts to the quick. This brings us to our first pro-tip:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Asking Questions Tip # 1: Don’t Mess Around&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Don’t equivocate. Don’t ramble on. Don’t make excuses. You have every right to ask the question you’re asking, and the person answering it doesn’t need to know why you’re asking. Remember to KISS: Keep It Simple Stupid. They just need the background situation and question, which brings us to our second pro-tip:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Asking Questions Tip # 2: Know Your Audience&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If you’re going to post on Stack Overflow, you have a wealth of amazing resources at your fingertips. The programmers on Stack Overflow are happy to help, but they’re taking time out of their day to give you a hand. Don’t make them ask you more questions in order to get to an answer for you (though sometimes this is unavoidable). Give them the relevant information such as what language you’re working in, what programs you’re working with and in, what you’re trying to accomplish, and your best guess as to where things are going wrong. Don’t just give them your code and say “help!” either. Asking a question is a conversation, not cheating on a test, which brings us to our final pro-tip:  &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Asking Questions Tip # 3: Don’t Soliloquize&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Asking a question is the BEGINNING of a CONVERSATION. When you’ve answered questions before, what information did you need or use in order to find a solution? Make sure you provide it. Did anything ever frustrated you while you were trying to help someone? Make sure you don’t do it. Follow up with people. Even if it turns out you made a stupid typo, if someone points it out, thank them. If they have a follow up question, answer it. If you have a follow up question, ask it. In other words: be courteous. &lt;/p&gt;
-
-&lt;p&gt;In conclusion, I was lying in the beginning: don’t actually emulate Hamlet. He was a lone wolf and he got killed in the end, so he’s not really a great role model for this sort of thing. &lt;/p&gt;
-
-&lt;p&gt;P.S. You know how frustrating it is when you can’t get your code to work and it’s all because of one tiny little comma you left out? For some people, it’s just as frustrating to see commas left out of regular writing. Use them. Use proper spelling. Proofread. You may not care, but the person who may eventually solve your current headache may get a headache from your disdain of the oxford comma and not help you out. Food for thought :)&lt;/p&gt;
+            <item>
+                <title>The Post Week 1 Recap</title>
+                <dc:creator></dc:creator>
+                
+                    <description>&lt;h2&gt;Phase 1: Week 1&lt;/h2&gt;
 </description>
-        <pubDate>Sat, 02 Aug 2014 00:00:00 -0400</pubDate>
-        <link>http://thehumantaurch.github.io//culture/2014/08/02/week-9-cultural/</link>
-        <guid isPermaLink="true">http://thehumantaurch.github.io//culture/2014/08/02/week-9-cultural/</guid>
+                
+                            <pubDate>Sat, 09 Aug 2014 00:00:00 -0400</pubDate>
+                <link>http://thehumantaurch.github.io//phase1-week1</link>
+                <guid isPermaLink="true">http://thehumantaurch.github.io//phase1-week1</guid>
+            </item>
         
-        
-        <category>culture</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 8 Technical Blog</title>
-        <description>&lt;h1 id=&quot;week-8&quot;&gt;Week 8:&lt;/h1&gt;
-
-&lt;h2 id=&quot;how-to-program-a-programming-language&quot;&gt;How to Program a Programming Language&lt;/h2&gt;
-
-&lt;p&gt;How does everything we’re working on… work? Where did Ruby come from, as in how do you program a programming language? For that matter, how do you program a computer? How does a motherboard translate electrical impulses from my keyboard to present the words I type on the screen?&lt;/p&gt;
-
-&lt;p&gt;Let’s take a look back, shall we?&lt;/p&gt;
-
-&lt;p&gt;So, let me make some analogies. We have computers and programming languages. Programming languages are just like the language we speak in our every day lives. As humans, we invented languages to communicate between each other. A programming language is another invention we’ve created to communicate between two types of entities, humans (or users), and computers. In that way, if you think about it, a computer is a prototypical human. Now that we can communicate with computers, we can teach them to do many things. &lt;/p&gt;
-
-&lt;p&gt;Let’s go back to that prototypical human to trace how programs and computers came to be. Our brains weren’t developed enough to process language for a long period of human evolution. Sure dogs, cats, monkeys, all animals have their own “language”, but it’s incredibly basic and instinctual. The prototypical human version of the computer is actually a very early calculator.&lt;/p&gt;
-
-&lt;p&gt;In 1837, Charles Babbage designed the “Analytical Engine”, or what most people consider the first “modern” computer. It worked by a method of punched cards that had been introduced in 1801 by Joseph Marie Jacquard in his Jacquard Loom. A card punched in a particular pattern would be connected to strings on a loom through hooks, and whether or not the card was punched in a specific place would raise or lower the hooks— a series of cards punched in different places could create beautiful patterns. Babbage’s design of the Analytical machine was to take input punched cards and return a print. The Analytical Engine could handle basic arithmetic through conditional branching and loops (Sound familiar? More on this &lt;a href=&quot;http://en.wikipedia.org/wiki/Analytical_engine#Instruction_set&quot;&gt;here&lt;/a&gt;) and had integrated memory (numerical constants). Six years later, Ada Lovelace (girl power!) took a description of the machine and translated it, but also added her own notes as to how to repurpose the machine to calculate Bernoulli numbers. She invented a new way to communicate between a machine and its user, and while it was not technically a programming language, the first programming language ever is named after her. &lt;/p&gt;
-
-&lt;p&gt;So, now we start to see how we can get from this: &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://thehumantaurch.github.io//assets/punchcards-large.jpg&quot; alt=&quot;Punchcard Image 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;to this:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://thehumantaurch.github.io//assets/ibm-80-column-punched-card1.jpg&quot; alt=&quot;Punchcard Image 2&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;and then to this: &lt;em&gt;(though it would take a whole different blog post…)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://thehumantaurch.github.io//assets/football5.jpg&quot; alt=&quot;Punchard Image 3&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And we know where it goes from there… &lt;/p&gt;
-
-&lt;p&gt;So if humans evolved to process language, computers evolved from processing punched cards to computer chips. Programming languages evolved from a binary system in weaving (i.e. punched or not punched pulled the thread above or below the waft), to incorporate math and loops and booleans further and further into the Rubys, SQLs, JavaScripts, and HTMLs we know and love today.&lt;/p&gt;
+            <item>
+                <title>Week 9 Cultural Blog</title>
+                <dc:creator></dc:creator>
+                
+                    <description>&lt;h1&gt;Week 9&lt;/h1&gt;
 </description>
-        <pubDate>Fri, 25 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://thehumantaurch.github.io//technical/2014/07/25/week-8-technical/</link>
-        <guid isPermaLink="true">http://thehumantaurch.github.io//technical/2014/07/25/week-8-technical/</guid>
+                
+                            <pubDate>Sat, 02 Aug 2014 00:00:00 -0400</pubDate>
+                <link>http://thehumantaurch.github.io//week-9-cultural</link>
+                <guid isPermaLink="true">http://thehumantaurch.github.io//week-9-cultural</guid>
+            </item>
         
-        
-        <category>technical</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 8 Cultural Blog</title>
-        <description>&lt;h1 id=&quot;week-8&quot;&gt;Week 8&lt;/h1&gt;
-
-&lt;h2 id=&quot;conflicting-feelings&quot;&gt;Conflicting Feelings&lt;/h2&gt;
-
-&lt;p&gt;Dealing with conflict has never been a strong suit of mine. I didn’t grow up in a house that ever dealt with it in a remotely healthy manner. I was taught to hold in all my feelings so as not to make things worse. This habit is such an innate part of me that I’m having trouble remembering the last time I dealt with conflict. To that end, on the compass of shame I am mainly a massochist and runner.&lt;/p&gt;
-
-&lt;p&gt;About two years ago my parents (well, my father) suggested that I apply to business school. It was a good natured and well intentioned suggestion. I was “too smart” to be doing what I was doing. My father went to business school and my mother minored in business. It shouldn’t have been a problem, except of course as my best friend so eloquently put it:&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;“I’m sorry, have your parents met you?!”&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;They could have told me to go to law school and I would have said it was pedestrian and obvious and had a million reasons why I shouldn’t go that they would have believed. If they had told me to go to med school, I would say that I wish I could, but my pathologic fear of getting my blood drawn was probably prohibitive. But business school? Wherever I was on the career/mentality/aptitude/personality spectrums (spectra?), business school was at the opposite end. &lt;/p&gt;
-
-&lt;p&gt;I tried to laugh it off. My father persisted. I made excuses (suddenly math REALLY wasn’t my thing as opposed to me just preferring languages). My father persisted. There was a good 15 (though probably closer to 20) minute discussion in front of both of my brothers, neither of whom would comment on whether or not they thought business school was a good idea for me (one had just gotten into business school, so he was biased anyway). I eventually turned to my mother and she placidly said that I could do anything I put my mind to. Shocked, and completely taken aback, I wouldn’t let any of them leave the room until the application was completed and done. I blasted through it in about an hour and a half. &lt;/p&gt;
-
-&lt;p&gt;The conflict obviously had nothing to do with whether or not I could do business school, or even whether or not I should have gone to business school. It was about feeling betrayed, in particular, by my mother. As I was insisting that business school and I would not be a good mix, no one supported me. &lt;/p&gt;
-
-&lt;p&gt;So I acceded. I filled out the application. Until a few days later when I finally blew up at my mother, and by “blew up” I mean “break down in front of” and asked why she thought I would be a good fit at business school because I truly and honestly couldn’t see it for myself. Everyone thought it was a good idea but me, so I was just begging someone to help me see it. My mother’s response? She didn’t honestly think it was a great idea, but it was AN idea and I filled out the application so quickly she figured I must have somehow gotten excited by the idea of going back to school. It was then that I finally got angry. She said if I didn’t want to do it, I needed to learn to say so. &lt;/p&gt;
-
-&lt;p&gt;Ouch. And as is so often the case, it hurt because it was true. It was undoubtedly a wake-up call, and I’ve since been more aware of acquiescing simply to keep the peace or putting up with something because it’s “easier” than dealing with the problem. What struck me most, however, was how it took me 3 days or so to articulate the feelings the conflict had stirred in me. I’ve grown up suppressing and delaying how I process those feelings for over 20 years, and it’s a hard habit to break. The awareness at least is a start, and hopefully I can continue to get better.&lt;/p&gt;
+            <item>
+                <title>Week 8 Technical Blog</title>
+                <dc:creator></dc:creator>
+                
+                    <description>&lt;h1&gt;Week 8:&lt;/h1&gt;
 </description>
-        <pubDate>Fri, 25 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://thehumantaurch.github.io//culture/2014/07/25/week-8-cultural/</link>
-        <guid isPermaLink="true">http://thehumantaurch.github.io//culture/2014/07/25/week-8-cultural/</guid>
+                
+                            <pubDate>Fri, 25 Jul 2014 00:00:00 -0400</pubDate>
+                <link>http://thehumantaurch.github.io//week-8-technical</link>
+                <guid isPermaLink="true">http://thehumantaurch.github.io//week-8-technical</guid>
+            </item>
         
-        
-        <category>culture</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 7 Technical Blog</title>
-        <description>&lt;h1 id=&quot;week-7-squealing-about-sql&quot;&gt;Week 7: Squealing about SQL&lt;/h1&gt;
-
-&lt;h2 id=&quot;injecting-fear-into-the-hearts-of-devs&quot;&gt;Injecting Fear into the Hearts of Devs&lt;/h2&gt;
-
-&lt;p&gt;What is a database for? To store data. What is SQL for? To access and request data. SQL Injection is a nasty technique that hackers use to steal that information from your database. And, unfortunately, it’s pretty easy. SQL is (thankfully) pretty easy to use, but that’s also what makes it so easy to hack.&lt;/p&gt;
-
-&lt;p&gt;In a somewhat simplistic example, let’s say you have a website with entry fields that a user can input info by which to gain access to the database, such as a username and password. However, that input field can become a double-edged sword. While a user with the appropriate intentions can insert their login credentials and access the information in their part of the database, a user with less than benign intentions could (instead of credentials) input an SQL query in itself, which could concievably retrieve way more information from the database than you would want them to. Think: passwords, credit card numbers, social security numbers, etc. You’d just have to guess the name of the column they were under.&lt;/p&gt;
-
-&lt;p&gt;If nothing else, remember this: OWASP, the Open Web Application Security Project, lists Injection as the number one critical web app security risk.&lt;/p&gt;
-
-&lt;p&gt;For example, if you add a simple “OR” statement to a request, as in: OR “1=1” the request is for a specific piece of data or where 1=1 is true. WHICH IS EVERYTHING. See now why SQL injection is scary???&lt;/p&gt;
-
-&lt;p&gt;So… how do we prevent it? Well, it’s hard, but there are a few things you can do. For us at DBC, who are using SQLite, we can use sqlite3_prepare() to create a statement object, in other words, a prepared statement. A prepared statement won’t let an attacker change the original intention of a query– think of it as an unsafe query reading “username” OR “1=1”, but with a prepared statement the input would instead read “username OR 1=1” which is much more specific. There are ways to create a prepared statement in most languages, which you can read more on at this &lt;a href=&quot;https://www.owasp.org/index.php/Query_Parameterization_Cheat_Sheet&quot;&gt;OWASP cheat sheet&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;There are other methods as well, such as using Stored Procedures, which are similar to prepared statements but are stored in the database itself (whereas a prepared statement is a query, sometimes known as a paramatized query). There are also ways to “escape” the user input, in other words, to help differentiate the user input from the original query.&lt;/p&gt;
-
-&lt;p&gt;For further reading:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.acunetix.com/websitesecurity/sql-injection/&quot;&gt;A Clear Explanation of Injection for the Uninitiated&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet&quot;&gt;OWASP Injection Prevention&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
+            <item>
+                <title>Week 8 Cultural Blog</title>
+                <dc:creator></dc:creator>
+                
+                    <description>&lt;h1&gt;Week 8&lt;/h1&gt;
 </description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://thehumantaurch.github.io//technical/2014/07/15/week-7-technical/</link>
-        <guid isPermaLink="true">http://thehumantaurch.github.io//technical/2014/07/15/week-7-technical/</guid>
+                
+                            <pubDate>Fri, 25 Jul 2014 00:00:00 -0400</pubDate>
+                <link>http://thehumantaurch.github.io//week-8-cultural</link>
+                <guid isPermaLink="true">http://thehumantaurch.github.io//week-8-cultural</guid>
+            </item>
         
-        
-        <category>technical</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 7 Cultural Blog</title>
-        <description>&lt;h1 id=&quot;week-7-value-added&quot;&gt;Week 7: Value Added&lt;/h1&gt;
-
-&lt;h2 id=&quot;release-1-values-i-value&quot;&gt;Release 1: Values I Value&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Coolness under fire&lt;/li&gt;
-  &lt;li&gt;Friendships&lt;/li&gt;
-  &lt;li&gt;Creativity&lt;/li&gt;
-  &lt;li&gt;Enthusiasm&lt;/li&gt;
-  &lt;li&gt;Helping others&lt;/li&gt;
-  &lt;li&gt;Tenacity&lt;/li&gt;
-  &lt;li&gt;Adventure&lt;/li&gt;
-  &lt;li&gt;Freedom&lt;/li&gt;
-  &lt;li&gt;Inspiration&lt;/li&gt;
-  &lt;li&gt;Self-respect&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;release-2-on-tenacity&quot;&gt;Release 2: On Tenacity&lt;/h2&gt;
-&lt;p&gt;My friends tell me I am one of the most perseverant people they’ve ever met and will likely ever meet, and this is one of the highest compliments I feel I can be given. To this point in my life, I don’t have a lot that’s tangible proof of that, but it’s definitely defined who I am. I’ve been told “no” a lot in my life. To me, there is little more admirable than determination. One of my favorite lines from any movie is from Batman Begins: Why do we fall, Bruce? So we can learn to pick ourselves back up. It’s a skill that can’t be taught, and, more importantly, can’t be learned unless you’re willing to fall down a lot. I respect anyone who’s got that skill for that reason.&lt;/p&gt;
-
-&lt;h2 id=&quot;release-3-values-rated&quot;&gt;Release 3: Values Rated&lt;/h2&gt;
-&lt;table&gt;
-&lt;tr&gt;&lt;td&gt;Coolness under fire&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Friendships&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Creativity&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Enthusiasm&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Helping others&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Tenacity&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Adventure&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Freedom&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Inspiration&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Self-respect&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;release-4-valuable-advice&quot;&gt;Release 4: Valuable Advice&lt;/h2&gt;
-&lt;p&gt;The last time someone asked me for advice, it was about family troubles. They asked because I’ve had more than my fair share of experience with family drama. I have to say that I’m not even sure that my answers were that helpful, but it was more important for the person to hear that I understood what she was going through and she wasn’t the only child who’d ever had to go through it.&lt;/p&gt;
-
-&lt;h2 id=&quot;release-5-values-and-stereotype-threat&quot;&gt;Release 5: Values and Stereotype Threat&lt;/h2&gt;
-&lt;p&gt;Values are what define a person. They may not be the values you want, but your values define you. I was pleasantly surprised when I thought about what my values really were, as opposed to what I thought or said they were, and they lined up pretty well. I know that I can use my self respect, helping others, and coolness under fire when dealing with stereotype threat when it comes from others (provided I notice it and don’t brush it off, which I think may be a bigger challenge). When I see it in myself, I will have to use my tenacity– a sort of self discipline to face my (temporary) failures and improve myself in the future.&lt;/p&gt;
-
-&lt;p&gt;When I’m down at DBC (which will happen– I know I’ll get stressed, or frustrated, or overwhelmed), I have to remember to above all take care of myself. Eating right, exercising, sleeping– these are the first things to go. Which is fine, but I find that I can usually get back to being me by starting with taking care of myself. I also won’t let myself be alone. I’m going to be away from my friends, but I’ll make new friends and will call on those nearby. Most of all, I’m not going to beat myself up. There’s that tenacity again :)&lt;/p&gt;
+            <item>
+                <title>Week 7 Technical Blog</title>
+                <dc:creator></dc:creator>
+                
+                    <description>&lt;h1&gt;Week 7: Squealing about SQL&lt;/h1&gt;
 </description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://thehumantaurch.github.io//culture/2014/07/15/week-7-cultural/</link>
-        <guid isPermaLink="true">http://thehumantaurch.github.io//culture/2014/07/15/week-7-cultural/</guid>
+                
+                            <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
+                <link>http://thehumantaurch.github.io//week-7-technical</link>
+                <guid isPermaLink="true">http://thehumantaurch.github.io//week-7-technical</guid>
+            </item>
         
-        
-        <category>culture</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 6 Technical Blog</title>
-        <description>&lt;h1 id=&quot;week-6&quot;&gt;Week 6&lt;/h1&gt;
-
-&lt;h2 id=&quot;the-difference-between-oo-and-non-oo-programming&quot;&gt;The difference between OO and non-OO programming&lt;/h2&gt;
-
-&lt;p&gt;I’m going to try to keep this very simple (and from an English major’s perspective). &lt;/p&gt;
-
-&lt;p&gt;In programming, you have variables and methods. They’re the nouns and verbs of your code. They’re the building blocks, just like the building blocks of a sentence.&lt;/p&gt;
-
-&lt;p&gt;You can have any number of nouns: a cat, a dog, a monkey, etc…&lt;/p&gt;
-
-&lt;p&gt;That do any number of verbs: nap, eat, chase, etc…&lt;/p&gt;
-
-&lt;p&gt;If we define a cat variable, a dog variable, and a monkey variable, we can call methods (napping, eating, and chasing) on all those different variables. We can have a cat napping or a dog napping. We can have a monkey eating and a dog eating. We can go through all the permutations we want! However, in this story we’re trying to tell with our code, it gets more complicated to say that the dog ate (past tense). &lt;/p&gt;
-
-&lt;p&gt;Object-oriented programming helps us group these nouns and verbs together into objects. In our parts of speech analogy, it’d be like defining simple sentences. Instead of the nouns as variables and verbs as methods, we can simply ensure that we don’t have a verb without a subject or a noun without an action– in other words, a complete sentence (which would be the object). &lt;/p&gt;
-
-&lt;p&gt;Procedural programming would make us call the methods on the variables. With object oriented programming we can create a class Sentence that requires both a noun and verb.:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;class Sentence
-def initialize(noun,verb)
-@noun = noun
-@verb = verb
-end
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;You don’t have to worry about calling: cat.chase or dog.nap. All you have to do is:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Sentence.new(cat, chase)
-Sentence.new(dog, nap)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Whereas cat.chase is running a method (chase) on a variable (cat), which is two different things, we can use object-oriented programming to just create a sentence in which the cat chases. The first is procedural. It’s telling the computer to call chase (step 1) on cat (step 2). The second, object-oriented, is creating an instance where the cat chases (only one step).&lt;/p&gt;
-
-&lt;p&gt;This inherent connection between the nouns and verbs of your program can make your life much easier (especially as things get more complicated)! You can group things by connection instead of simply by individual nouns and verbs. When things get more complicated, you can have classes for tenses that would still both take a noun and verb as their inputs, but the verb would have different methods(tenses) applied to it.&lt;/p&gt;
+            <item>
+                <title>Week 7 Cultural Blog</title>
+                <dc:creator></dc:creator>
+                
+                    <description>&lt;h1&gt;Week 7: Value Added&lt;/h1&gt;
 </description>
-        <pubDate>Sun, 13 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://thehumantaurch.github.io//technical/2014/07/13/week-6-technical/</link>
-        <guid isPermaLink="true">http://thehumantaurch.github.io//technical/2014/07/13/week-6-technical/</guid>
+                
+                            <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
+                <link>http://thehumantaurch.github.io//week-7-cultural</link>
+                <guid isPermaLink="true">http://thehumantaurch.github.io//week-7-cultural</guid>
+            </item>
         
-        
-        <category>technical</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 6 Cultural Blog</title>
-        <description>&lt;h1 id=&quot;week-6&quot;&gt;Week 6&lt;/h1&gt;
-
-&lt;h2 id=&quot;stereotype-threat&quot;&gt;Stereotype Threat&lt;/h2&gt;
-
-&lt;p&gt;So, let’s say you’re a socially conscious young white male. That’s cool! Hi there, generic young white male, how are you today?&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Lucky bastard…&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Actually… that’s really not fair of me. Because we’ve already decided you’re socially conscious, right? You get #yesallwomen. You understand why we have &lt;a href=&quot;http://www.newyorker.com/online/blogs/johncassidy/2013/06/why-america-still-needs-affirmative-action.html&quot;&gt;affirmative action&lt;/a&gt; in college applications and why it’s important. You don’t believe in discriminating against someone in hiring for their sexual orientation. I believe you, and let me tell you, sir, you are going to help make this world a better place for all of us. Seriously: thank you.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;There’s just one problem…&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;You will never know what it’s like to have everything ever marketed to you in pink. You will never have to consider whether or not it’s a good idea to put the hood in your sweatshirt up for fear of what conclusions people will draw about your appearance (see: &lt;a href=&quot;http://www.rewireme.com/explorations/combating-stereotypes-in-the-classroom/#sthash.dF1IvZ8E.dpbs&quot;&gt;Trayvon Martin&lt;/a&gt;). You get the idea.&lt;/p&gt;
-
-&lt;p&gt;Don’t get me wrong, this is not your fault. You were born a white male. And in being socially conscious, you are probably doing your best to be considerate to everyone regardless of gender, race, and sexual orientation. But the opposite of stereotype threat is stereotype privilege, and that’s something that’s much harder to be aware of.&lt;/p&gt;
-
-&lt;p&gt;When I first applied to DevBootcamp, I talked in my application about how I was always interested and good with computers growing up, even from a young age. I asked for a laptop for Christmas at age 3 in 1989 when home computers were hardly widespread. Obviously, for many reasons, I did not find a laptop under the tree that year. But, if we fast forward 10 years, as a teenager I started learning HTML with friends for fun. While people told me I was good at it, no one actively encouraged me to pursue it. I was also really good at foreign languages and writing stories and papers. I enjoyed history. I was constantly encouraged to pursue these areas. This is what you, as a young, white, socially conscientious male probably didn’t experience and will have a hard time appreciating. Again: not your fault.&lt;/p&gt;
-
-&lt;p&gt;I talked in my &lt;a href=&quot;/cultural/culture/2014/06/29/week-4-cultural/&quot;&gt;week 4 blog&lt;/a&gt; about women in tech and some of my experiences with stereotypes as a woman. There are plenty more where that came from, but instead I offer another story about how I’ve learned to be more aware of stereotype threat.&lt;/p&gt;
-
-&lt;p&gt;In January of 2013 I worked on a show with my friend, whom we’ll call Louis. I saw him every day for three months. Louis was gay. Louis was also a huge nerd, and we talked about our love for anime and comics during our breaks and backstage. Nine months later, Louis came out as trans. This didn’t surprise me in the slightest. Louis looked way better in high heeled boots than I ever did. A few months later when I finally got my first chance to hang out with Louis and a group of friends since his coming out, I made a &lt;b&gt;pronoun mistake&lt;/b&gt;. Louis got angry. Louis told me he thought I knew better. I apologized and told him I did know better, but I had known him and worked with him for months as a man and it was force of habit.&lt;/p&gt;
-
-&lt;p&gt;Louis and I had a good discussion that day after the initial flare-up. I explained to him that I was not trying to be rude, and  While he understood it was an honest mistake, I had to learn that I acted without thinking. And while it was force of habit, I had to learn to be more conscientious until my habits changed. Louis learned that it was better to start a conversation than to get angry. If he hadn’t said anything, I probably wouldn’t even have noticed. That’s the problem with privilege– it’s reinforced over the years of our lives, it creates habits, and we don’t even realize we have stereotypes.&lt;/p&gt;
-
-&lt;p&gt;If we all make the decision to try to be conscientious of our privilege and stereotypes, we can change those habits that we pass down to our children. But we need to have an open dialogue. I hope that people in DBC will make me aware of my privilege if necessary, as Louis did, although I hope it can be a conversation rather than an accusation. I think that’s key, and having the patience and presence of mind to wait until you cool down and away from others for privacy is also important. Habits won’t change on the first or second reminder. It will take practice. But practice makes perfect :)&lt;/p&gt;
+            <item>
+                <title>Week 6 Technical Blog</title>
+                <dc:creator></dc:creator>
+                
+                    <description>&lt;h1&gt;Week 6&lt;/h1&gt;
 </description>
-        <pubDate>Sun, 13 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://thehumantaurch.github.io//culture/2014/07/13/week-6-cultural/</link>
-        <guid isPermaLink="true">http://thehumantaurch.github.io//culture/2014/07/13/week-6-cultural/</guid>
+                
+                            <pubDate>Sun, 13 Jul 2014 00:00:00 -0400</pubDate>
+                <link>http://thehumantaurch.github.io//week-6-technical</link>
+                <guid isPermaLink="true">http://thehumantaurch.github.io//week-6-technical</guid>
+            </item>
         
-        
-        <category>culture</category>
-        
-      </item>
-    
-  </channel>
+    </channel>
 </rss>
