@@ -5,7 +5,7 @@ date:   2015-01-20
 categories: Tech
 ---
 
-STEM to STEAM, Or: The Value of an Artistic Background in Tech
+Or: The Value of an Artistic Background in Tech
 -----------------------------------------------------------------------
 
 There's been some talk recently of trying to go from talking about STEM to talking about STEAM. As someone who has gone from the "A" to the "T", it unfortunately rings true that a lot of the skills I've learned from working in the arts, skills so deeply ingrained in me that I don't even think of them as skills anymore, aren't widely present in the tech world. Why should you hire an artist? Here are a few reasons:
