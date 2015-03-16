@@ -1,15 +1,12 @@
-name: The Human Taurch
-description: Making things
-url: http://thehumantaurch.github.io/
-markdown: redcarpet
-paginate: 5
-highlighter: pygments
+# Site settings
+title: TheHumanTaurch @ DBC
+email: sarah.taurchini@gmail.com
+description: "Chronicling the adventures of our fearless heroine as she embarks on her quest to become a junior developer."
+baseurl: ""
+url: "http://thehumantaurch.github.io/"
+twitter_username: the_humantaurch
+github_username:  thehumantaurch
 
-rss-feed-limit: 10
-
-# disqus-id: yourusername
-twitter: the_humantaurch
-github: thehumantaurch
-# google: +yourusername
-
-permalink: /:title
+# Build settings
+markdown: kramdown
+permalink: pretty
