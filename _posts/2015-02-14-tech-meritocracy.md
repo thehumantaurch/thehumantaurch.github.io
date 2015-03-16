@@ -1,0 +1,28 @@
+---
+layout: post
+title: Tech is a Meritocracy?
+date:   2015-02-25
+categories: Tech
+---
+
+#Why It SHOULD be...#
+Hey guys (and for right now, I'm using that term to refer to you specimens who were born with a male sex organ). How's it going? So, there's been a lot of talk about WOMEN lately: that [woman at Google](http://www.buzzfeed.com/salvadorhernandez/google-kelly-ellis#.jqLe6ab0o) who accused her male teammates of sexual harassment without proof, that whole (as yet ongoing) [Gamergate fiasco](http://rationalwiki.org/wiki/Gamergate), and Ellen Pao's discrimination trial [rocking Silicon Valley](http://www.npr.org/2015/03/14/393031791/a-gender-discrimination-trial-rocks-silicon-valley). It might get you guys thinking: are things going to change? Are less deserving women (i.e. women who are not as skilled technically as their male counterparts) going to get jobs instead of me? If that were to be the case, that would be REALLY unfair. I completely and totally agree with you on that. Tech should be a meritocracy, right? He OR She who writes the best code should "win". 
+
+But you will at least admit that there's an uneven ratio of men to women in tech, right? The numbers are pretty unanimous, and I hope I don't have to show them to you again. So, what are we to do? Clearly, we have already agreed that giving women positions in tech just to get more women in the field isn't fair, so that's out of the question. We need to be fair when it comes to hiring in tech. 
+
+But that reminds me... have you ever been told not to apply to a job because "women tend not to do well on our applications" and in the same sentence that "we can't make the test easier for women because that wouldn't be fair, but we don't know what to do to change things and make it fair"? Yeah, total jerks, right? I don't want to work for them either. 
+
+Ah... well. That's one less company I can apply to/want to work for than you I guess, but it's only one company, right? Like the company I applied to where I was asked out by a guy on the engineering team-- I thought it was a non-traditional interview at first because I couldn't fathom that someone I was trying to work for would ask me on a date. That's inappropriate, right? What if I slept with him to get the job? Exactly, but... when I said no, suddenly my application process was over. It could have been that they looked at my resume and decided I wasn't right for the position, but we'll never know for sure. 
+
+#... but why it's NOT#
+And it certainly may be that these are uncommon occurances that have only happened to me (oh wait... [they're not](http://techcrunch.com/2014/08/23/just-another-white-dude-writing-about-diversity/)) so let's get back to the more technical fairness. Here's the thing though: you can't separate my technical experience from my cultural experience. You can't because I have to walk this line in an interview or class or meeting where if I speak up, I might turn people off. Consider that the CEO of Microsoft told women at the Grace Hopper conference that they should 'trust the system' instead of [asking for a raise](http://www.businessinsider.com/microsoft-ceo-satya-nadella-to-women-dont-ask-for-a-raise-trust-karma-2014-10). With that in mind, I'll refer you now to a short piece from a much longer [article from The Atlantic](http://www.theatlantic.com/features/archive/2014/04/the-confidence-gap/359815/) that is about any field, not just tech. 
+
+>Here’s a thorny question: If Rebecca did behave just like Robert, exhibiting his kind of confidence, what would her boss think then? There is evidence that Rebecca wouldn’t fare so well, whether her boss was male or female.
+
+>Which is why any discussion of this subject requires a major caveat. Yes, women suffer consequences for their lack of confidence—but when they do behave assertively, they may suffer a whole other set of consequences, ones that men don’t typically experience. Attitudes toward women are changing, and for the better, but a host of troubling research shows that they can still pay a heavier social and even professional penalty than men do for acting in a way that’s seen as aggressive. If a woman walks into her boss’s office with unsolicited opinions, speaks up first at meetings, or gives business advice above her pay grade, she risks being disliked or even—let’s be blunt—being labeled a bitch. The more a woman succeeds, the worse the vitriol seems to get. It’s not just her competence that’s called into question; it’s her very character.
+
+I guess what I'm trying to say with all this is that tech SHOULD be fair and SHOULD be a meritocracy, but *it's not*. It's already not fair to women. The idea of giving 'less deserving' women jobs in tech to get more women into the field is trying to *even out* the playing field, **NOT** make it unfair for men.
+
+I understand that what I'm talking about deals with those subtle, implicit forms of sexism that would be near impossible to study. But [we know](http://www.attn.com/stories/1003/women-leaving-tech-sexism) that there is still a serious sexixm problem in the tech world, and, to quote the above article, "the attitudes holding [women] back [are] far more subtle and therefore far harder to challenge on any grand scale". 
+
+As a dear friend of mine said: "I was arguing with a friend whether it was okay to be mad that women have to be badass to get ahead. I have no problem with striving for badassery," and anyone who knows me will tell you that neither do I. That's how I live my life. **BUT**, "...it shouldn't be required of some groups while others can get away with mediocre." We all agree on that, but for a woman to get to the same place in tech that a man does, she has to be way more of a badass. And that's simply not fair.
