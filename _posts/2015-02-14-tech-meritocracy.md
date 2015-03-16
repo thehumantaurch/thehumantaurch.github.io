@@ -2,7 +2,7 @@
 layout: post
 title: Tech is a Meritocracy?
 date:   2015-02-25
-categories: Tech
+categories: Technical
 ---
 
 #Why It SHOULD be...#

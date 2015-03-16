@@ -2,7 +2,7 @@
 layout: post
 title: Going from STEM to STEAM 
 date:   2015-01-20
-categories: Tech
+categories: Culture
 ---
 
 Or: The Value of an Artistic Background in Tech
