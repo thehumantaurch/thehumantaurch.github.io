@@ -10,6 +10,7 @@ I'm a budding software developer in Ruby/Rails and JavaScript. I attended DevBoo
 
 - [GoBug:](https://github.com/mud-turtles-2014/GoBug) 3 people, 5 days, 1 full stack RoR/Bootstrap/Ajax application to help you plan and budget your next trip
 - [The Spot:](https://github.com/mud-turtles-2014/TheSpot) 3 people, 2 days, 1 small full stack app integrating the Yelp API to help you figure out the truly BEST brunch spot in NYC
+-   [DC Theater Map:](https://github.com/thehumantaurch/mapbox-experiment) See if there is a show on in DC tonight. Sinatra App using Mapbox.js. Markers filtered by date of show, colored by price of ticket, icons represent genre of show.
 
 #Current Solo Project:#
 
